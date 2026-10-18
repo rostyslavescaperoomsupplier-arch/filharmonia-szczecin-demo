@@ -1,0 +1,1 @@
+import{t as e}from"./shop.DkZK8ad4.js";e();

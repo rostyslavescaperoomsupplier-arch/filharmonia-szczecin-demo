@@ -1,0 +1,37 @@
+# Filharmonia Szczecin (concept prototype)
+
+> Prototype of a new website for the Mieczysław Karłowicz Philharmonic in Szczecin, Poland (Filharmonia im. Mieczysława Karłowicza w Szczecinie, ul. Małopolska 48, 70-515 Szczecin). Hackathon concept (WUD Szczecin 2026), not the official website: the official site is https://filharmonia.szczecin.pl. Ticket data in this prototype is mocked.
+
+Languages: Polski (/pl/), English (/en/), Deutsch (/de/), Українська (/uk/). Polish is the default. Times are Europe/Warsaw, prices in PLN (zł).
+
+For AI agents:
+- In browsers with WebMCP (document.modelContext), every page registers tools: search_events, get_event, get_calendar, answer_visitor_question, get_accessibility_info, start_ticket_purchase, navigate, set_accessibility_preferences, get_my_tickets, plus page tools on event, ticket and game pages.
+- Machine-readable data per language: https://filharmoniaszczecin.onrender.com/agent/pl.json, https://filharmoniaszczecin.onrender.com/agent/en.json, https://filharmoniaszczecin.onrender.com/agent/de.json, https://filharmoniaszczecin.onrender.com/agent/uk.json.
+- Event pages: https://filharmoniaszczecin.onrender.com/pl/wydarzenie/{slug}/ (en: https://filharmoniaszczecin.onrender.com/en/event/{slug}/). They carry schema.org Event JSON-LD.
+- Ticket purchase is never automated: send the person to https://filharmoniaszczecin.onrender.com/pl/wydarzenie/{slug}/bilety?d={ISO start}&t=normal.2-reduced.1 (quantities prefilled); they choose seats and pay themselves.
+
+## Main pages
+
+- [Home (pl)](https://filharmoniaszczecin.onrender.com/pl/): what's on, recommendations, quick links
+- [Home (en)](https://filharmoniaszczecin.onrender.com/en/)
+- [Programme](https://filharmoniaszczecin.onrender.com/pl/kalendarz/): calendar of all events, filterable by date, type, audience, mood and accessibility (English: https://filharmoniaszczecin.onrender.com/en/calendar/)
+- [Help me choose](https://filharmoniaszczecin.onrender.com/pl/pomoz-mi-wybrac/): five questions, then recommended events (English: https://filharmoniaszczecin.onrender.com/en/help-me-choose/)
+- [Assistant](https://filharmoniaszczecin.onrender.com/pl/asystent/): chat (pl/en/de/uk) for the programme and practical questions, answers cite sources (English: https://filharmoniaszczecin.onrender.com/en/assistant/)
+- [Plan your visit](https://filharmoniaszczecin.onrender.com/pl/planuj-wizyte/): opening hours, box office, getting there, parking, cloakroom (English: https://filharmoniaszczecin.onrender.com/en/plan-your-visit/)
+- [Accessibility](https://filharmoniaszczecin.onrender.com/pl/dostepnosc/): wheelchair spaces, induction loop, Polish Sign Language, sensory information, contacts (English: https://filharmoniaszczecin.onrender.com/en/accessibility/)
+- [EDUfilharmonia](https://filharmoniaszczecin.onrender.com/pl/edufilharmonia/): concerts and workshops for children, families and schools (English: https://filharmoniaszczecin.onrender.com/en/edu/)
+- [Discover](https://filharmoniaszczecin.onrender.com/pl/odkryj/): the building (EU Mies van der Rohe Award 2015) and the orchestra (English: https://filharmoniaszczecin.onrender.com/en/discover/)
+- [Festivals](https://filharmoniaszczecin.onrender.com/pl/festiwal/): festival programmes (English: https://filharmoniaszczecin.onrender.com/en/festival/)
+- [News](https://filharmoniaszczecin.onrender.com/pl/aktualnosci/): latest news of the Philharmonic: concert previews, education, exhibitions, notices (English: https://filharmoniaszczecin.onrender.com/en/news/)
+
+## Full text
+
+- [llms-full.txt](https://filharmoniaszczecin.onrender.com/llms-full.txt): every upcoming event (dates, hall, prices, availability, programme, performers, why go) and the visitor FAQ with sources, in Markdown
+
+## Optional
+
+- [Gniazdo Mewki](https://filharmoniaszczecin.onrender.com/pl/gniazdo/): mini-game with the Mewka gull mascot (check in at concerts)
+- [Shop](https://filharmoniaszczecin.onrender.com/pl/sklep/): merchandise
+- [News RSS](https://filharmoniaszczecin.onrender.com/pl/aktualnosci/rss.xml): RSS 2.0 feed of the news (English: https://filharmoniaszczecin.onrender.com/en/news/rss.xml)
+- [Account](https://filharmoniaszczecin.onrender.com/pl/konto/): tickets and favourites saved on the device
+- [Official website](https://filharmonia.szczecin.pl)
