@@ -1,0 +1,37 @@
+# Filharmonia Szczecin (concept prototype)
+
+> Prototype of a new website for the Mieczysław Karłowicz Philharmonic in Szczecin, Poland (Filharmonia im. Mieczysława Karłowicza w Szczecinie, ul. Małopolska 48, 70-515 Szczecin). Hackathon concept (WUD Szczecin 2026), not the official website: the official site is https://filharmonia.szczecin.pl. Ticket data in this prototype is mocked.
+
+Languages: Polski (/pl/), English (/en/), Deutsch (/de/), Українська (/uk/). Polish is the default. Times are Europe/Warsaw, prices in PLN (zł).
+
+For AI agents:
+- In browsers with WebMCP (document.modelContext), every page registers tools: search_events, get_event, get_calendar, answer_visitor_question, get_accessibility_info, start_ticket_purchase, navigate, set_accessibility_preferences, get_my_tickets, plus page tools on event, ticket and game pages.
+- Machine-readable data per language: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/agent/pl.json, https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/agent/en.json, https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/agent/de.json, https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/agent/uk.json.
+- Event pages: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/{slug}/ (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/{slug}/). They carry schema.org Event JSON-LD.
+- Ticket purchase is never automated: send the person to https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/{slug}/bilety?d={ISO start}&t=normal.2-reduced.1 (quantities prefilled); they choose seats and pay themselves.
+
+## Main pages
+
+- [Home (pl)](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/): what's on, recommendations, quick links
+- [Home (en)](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/)
+- [Programme](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/kalendarz/): calendar of all events, filterable by date, type, audience, mood and accessibility (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/calendar/)
+- [Help me choose](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/pomoz-mi-wybrac/): five questions, then recommended events (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/help-me-choose/)
+- [Assistant](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/asystent/): chat (pl/en/de/uk) for the programme and practical questions, answers cite sources (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/assistant/)
+- [Plan your visit](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/planuj-wizyte/): opening hours, box office, getting there, parking, cloakroom (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/plan-your-visit/)
+- [Accessibility](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/dostepnosc/): wheelchair spaces, induction loop, Polish Sign Language, sensory information, contacts (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/accessibility/)
+- [EDUfilharmonia](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/edufilharmonia/): concerts and workshops for children, families and schools (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/edu/)
+- [Discover](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/odkryj/): the building (EU Mies van der Rohe Award 2015) and the orchestra (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/discover/)
+- [Festivals](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/festiwal/): festival programmes (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/festival/)
+- [News](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/aktualnosci/): latest news of the Philharmonic: concert previews, education, exhibitions, notices (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/news/)
+
+## Full text
+
+- [llms-full.txt](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/llms-full.txt): every upcoming event (dates, hall, prices, availability, programme, performers, why go) and the visitor FAQ with sources, in Markdown
+
+## Optional
+
+- [Gniazdo Mewki](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/gniazdo/): mini-game with the Mewka gull mascot (check in at concerts)
+- [Shop](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/sklep/): merchandise
+- [News RSS](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/aktualnosci/rss.xml): RSS 2.0 feed of the news (English: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/news/rss.xml)
+- [Account](https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/konto/): tickets and favourites saved on the device
+- [Official website](https://filharmonia.szczecin.pl)

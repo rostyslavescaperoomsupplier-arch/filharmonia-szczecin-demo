@@ -1,0 +1,1661 @@
+# Filharmonia Szczecin: programme and visitor information (full text)
+
+> Generated from the site's API layer on build. "Now" for this prototype: 2026-10-17T17:00:00.000Z. Concept prototype, not the official website (https://filharmonia.szczecin.pl). Ticket availability is mocked.
+
+## Venue
+
+- Filharmonia im. Mieczysława Karłowicza w Szczecinie / Mieczysław Karłowicz Philharmonic in Szczecin
+- Address: ul. Małopolska 48, 70-515 Szczecin, Polska
+- Box office: +48914310720, kasa@filharmonia.szczecin.pl
+- Information line: +48539949454
+- Tours: zwiedzanie@filharmonia.szczecin.pl
+- Accessibility coordinator: a.bednarska@filharmonia.szczecin.pl
+- Public transport: Filharmonia (lines 1, 1 min walk); Filharmonia (lines 1, 1 min walk); Plac Rodła (lines 1, 5, 11, 4 min walk)
+
+## Upcoming events (100)
+
+### Obecność | Łukasz Patelczyk / Presence | Łukasz Patelczyk
+
+- Type: Wystawa; hall: Galeria Poziom 4
+- Dates: 2026-10-18 12:00 (available); 2026-10-24 12:00 (available); 2026-10-25 12:00 (available); 2026-10-31 12:00 (available); 2026-11-07 12:00 (available); 2026-11-08 12:00 (available); 2026-11-14 12:00 (available); 2026-11-15 12:00 (available); 2026-11-21 12:00 (available); 2026-11-22 12:00 (available)
+- Price: 10 PLN; ticket types: normal 10 zł
+- For: adults, families; mood: relax, unusual
+- Performers: Łukasz Patelczyk
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Malarstwo Łukasza Patelczyka łączy pejzaż z geometrią: to natura bez dróg i budynków, pokazana jako miejsce skupienia. Dobry pomysł na spokojny weekendowy spacer po Galerii Poziom 4. Jeden bilet za 10 zł obejmuje też Art.Room.
+- Why go: Łukasz Patelczyk's paintings bring landscape and geometry together: nature without roads or buildings, shown as a place to slow down. A good idea for a quiet weekend walk through Galeria Poziom 4. One 10 zł ticket also covers Art.Room.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2642-Obecnosc__Lukasz_Patelczyk (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2642-Obecnosc__Lukasz_Patelczyk)
+
+### Mnie się nie spieszy, mi się pali* Dymy nad Bieszczadami. Opowieść o przemijaniu / I’m in No Hurry, Yet Time Is Running Out* Smoke over the Bieszczady: A Story of Passing Time
+
+- Type: Wystawa; hall: Art.Room
+- Dates: 2026-10-18 12:00 (free); 2026-10-24 12:00 (free); 2026-10-25 12:00 (free); 2026-10-31 12:00 (free); 2026-11-07 12:00 (free); 2026-11-08 12:00 (free); 2026-11-14 12:00 (free); 2026-11-15 12:00 (free); 2026-11-21 12:00 (free); 2026-11-22 12:00 (free)
+- Price: free entry
+- For: adults; mood: unusual, emotional
+- Performers: Magdalena Seidler-Kumor; Tomasz Seidler-Kumor; Michał Kumor
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Fotograficzna opowieść o znikających wypałach węgla drzewnego w Bieszczadach, czyli o świecie pracy, który powoli odchodzi. Autorzy przez siedem lat zrobili ponad 70 tysięcy zdjęć, cyfrowo i na kliszy. Wejście do Art.Roomu z biletem do Galerii Poziom 4.
+- Why go: A photographic story about the vanishing charcoal kilns of the Bieszczady Mountains and a way of working that is slowly disappearing. Over seven years the authors took more than 70,000 photos, both digital and on film. Entry to Art.Room with a Galeria Poziom 4 ticket.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2644-Mnie_sie_nie_spieszy_mi_sie_pali_Dymy_nad_Bieszczadami._Opowiesc_o_przemijaniu (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2644-Mnie_sie_nie_spieszy_mi_sie_pali_Dymy_nad_Bieszczadami._Opowiesc_o_przemijaniu)
+
+### Koncert Charytatywny Polskiej Orkiestry Lekarzy
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-18  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900094-Koncert_Charytatywny_Polskiej_Orkiestry_Lekarzy (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900094-Koncert_Charytatywny_Polskiej_Orkiestry_Lekarzy)
+
+### Jak w baroku brzmiały pory roku? / How Did the Seasons Sound in the Baroque?
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2026-10-18 11:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: superhits, energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Julia Kurzydlak (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Akademia Młodego Melomana zaczyna sezon od Antonia Vivaldiego i jego Czterech pór roku, które po ponad 300 latach zna cały świat. Dzieci poznają orkiestrę barokową i muzykę tamtych czasów. Koncert poprowadzi Paulina Wojdyga, polecany wiek dziecka to 5+.
+- Why go: The Young Music Lovers' Academy opens its season with Antonio Vivaldi and The Four Seasons, still known all over the world after more than 300 years. Children meet a baroque orchestra and the music of its time. Hosted by Paulina Wojdyga, recommended for children aged 5+.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2612-Jak_w_baroku_brzmialy_pory_roku (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2612-Jak_w_baroku_brzmialy_pory_roku)
+
+### Donuta powraca / Donuta Returns
+
+- Type: Edukacja; hall: Sala kameralna
+- Dates: 2026-10-19 10:00 (available); 2026-10-19 12:00 (available); 2026-11-09 10:00 (available); 2026-11-09 12:00 (available); 2026-12-14 10:00 (available); 2026-12-14 12:00 (available); 2027-01-25 10:00 (available); 2027-01-25 12:00 (available); 2027-03-15 10:00 (not_yet); 2027-03-15 12:00 (not_yet); 2027-04-26 10:00 (not_yet); 2027-04-26 12:00 (not_yet); 2027-06-14 10:00 (not_yet); 2027-06-14 12:00 (not_yet)
+- Price: 1–30 PLN; ticket types: normal 30 zł
+- For: kids, schools (age 3–9); mood: energy, unusual
+- Duration: 50 min
+- Performers: muzycy Orkiestry Filharmonii w Szczecinie; Agata Kolasińska (prowadząca)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Kameralny koncert, na którym dzieci nie tylko słuchają, ale same biorą udział w muzycznej podróży z Donutą. Muzycy Orkiestry Filharmonii grają na żywo, całość trwa ok. 50 minut bez przerwy. Rezerwacje dla przedszkoli i szkół tylko przez formularz.
+- Why go: A chamber concert where children don't just listen but join a musical journey with Donuta. Musicians of the Philharmonic Orchestra play live, about 50 minutes with no interval. Bookings for kindergartens and schools only via the form.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2623-Donuta_powraca (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2623-Donuta_powraca)
+
+### Paulina Przybysz | Insides
+
+- Type: Koncert (jazz); hall: Sala symfoniczna
+- Dates: 2026-10-19 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: energy, emotional
+- Performers: Paulina Przybysz (wokal); Marek Pędziwiatr (fortepian, instrumenty klawiszowe); Tymon Kosma (wibrafon); Olaf Węgier (saksofon tenorowy); Krzysztof Baranowski (kontrabas); Wiktoria Jakubowska (perkusja, flet)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Paulina Przybysz wraca do jazzu i soulu, z którymi dorastała, ale opowiada standardy po swojemu: Coltrane i Sun Ra spotykają się tu z wrażliwością hip-hopu i r'n'b. Na scenie towarzyszy jej kwintet z czołówki nowej generacji polskiego jazzu.
+- Why go: Paulina Przybysz returns to the jazz and soul she grew up with, retelling the standards her own way: Coltrane and Sun Ra meet a hip-hop and R&B sensibility. She is joined by a quintet of leading players from Polish jazz's new generation.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2608-Paulina_Przybysz__Insides (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2608-Paulina_Przybysz__Insides)
+
+### Maleńczuk – Klauzula Sumienia
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-20  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900095-Malenczuk_Klauzula_Sumienia (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900095-Malenczuk_Klauzula_Sumienia)
+
+### SOYKA / GROTT Orkiestra – w hołdzie Mistrzowi
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-22  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900096-SOYKA_GROTT_Orkiestra_w_hodzie_Mistrzowi (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900096-SOYKA_GROTT_Orkiestra_w_hodzie_Mistrzowi)
+
+### Zwiedzanie Filharmonii w języku niemieckim / Sight-seeing the Philharmonic in German
+
+- Type: Zwiedzanie; hall: Sala kameralna, Galeria Poziom 4., Sala symfoniczna, Art.Room, Foyer sali symfonicznej, Hol
+- Dates: 2026-10-23 13:00 (available); 2026-10-30 13:00 (available); 2026-11-06 13:00 (available); 2026-11-13 13:00 (available); 2026-11-20 13:00 (available); 2026-11-27 13:00 (available); 2026-12-04 13:00 (available); 2026-12-11 13:00 (available); 2026-12-18 13:00 (available)
+- Price: 20–30 PLN; ticket types: normal 30 zł, reduced 20 zł
+- For: adults, families; mood: unusual, relax
+- Duration: 60 min
+- Accessibility: wheelchair. Trasa obejmuje hol, obie sale i Poziom 4. – wszystkie kondygnacje są dostępne windą, także jako alternatywa dla schodów kręconych. Potrzebę asysty zgłoś wcześniej: zwiedzanie@filharmonia.szczecin.pl.
+- Dlaczego warto: Budynek Filharmonii nazywany jest ikoną europejskiej architektury. Na zwiedzaniu zobaczysz salę symfoniczną, kameralną i Poziom 4., a całość trwa około 60 minut. Ta tura jest po niemiecku, w piątek o 13:00, bez wcześniejszej rezerwacji.
+- Why go: The Philharmonic building has been called an icon of European architecture. The tour takes you through the symphonic hall, the chamber hall and Poziom 4 in about 60 minutes. This tour is in German, on Fridays at 13:00, no booking needed.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2657-Zwiedzanie_Filharmonii_w_jezyku_niemieckim (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2657-Zwiedzanie_Filharmonii_w_jezyku_niemieckim)
+
+### Zwiedzanie Filharmonii w języku angielskim / Sight-seeing the Philharmonic in English
+
+- Type: Zwiedzanie; hall: Sala kameralna, Galeria Poziom 4., Sala symfoniczna, Art.Room, Foyer sali symfonicznej, Hol
+- Dates: 2026-10-23 14:00 (available); 2026-10-30 14:00 (available); 2026-11-06 14:00 (available); 2026-11-13 14:00 (available); 2026-11-20 14:00 (available); 2026-11-27 14:00 (available); 2026-12-04 14:00 (available); 2026-12-11 14:00 (available); 2026-12-18 14:00 (available)
+- Price: 20–30 PLN; ticket types: normal 30 zł, reduced 20 zł
+- For: adults, families; mood: unusual, relax
+- Duration: 60 min
+- Accessibility: wheelchair. Trasa obejmuje hol, obie sale i Poziom 4. – wszystkie kondygnacje są dostępne windą, także jako alternatywa dla schodów kręconych. Potrzebę asysty zgłoś wcześniej: zwiedzanie@filharmonia.szczecin.pl.
+- Dlaczego warto: Budynek Filharmonii nazywany jest ikoną europejskiej architektury. Na zwiedzaniu zobaczysz salę symfoniczną, kameralną i Poziom 4., a całość trwa około 60 minut. Ta tura jest po angielsku, w piątek o 14:00, bez wcześniejszej rezerwacji.
+- Why go: The Philharmonic building has been called an icon of European architecture. The tour takes you through the symphonic hall, the chamber hall and Poziom 4 in about 60 minutes. This tour is in English, on Fridays at 14:00, no booking needed.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2656-Zwiedzanie_Filharmonii_w_jezyku_angielskim (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2656-Zwiedzanie_Filharmonii_w_jezyku_angielskim)
+
+### Zwiedzanie Filharmonii w języku polskim / Sight-seeing the Philharmonic in Polish
+
+- Type: Zwiedzanie; hall: Sala kameralna, Galeria Poziom 4., Sala symfoniczna, Art.Room, Foyer sali symfonicznej, Hol
+- Dates: 2026-10-23 15:00 (available); 2026-10-30 15:00 (available); 2026-11-13 15:00 (available); 2026-11-20 15:00 (available); 2026-11-27 15:00 (available); 2026-12-11 15:00 (available); 2026-12-18 15:00 (available)
+- Price: 20–30 PLN; ticket types: normal 30 zł, reduced 20 zł
+- For: adults, families; mood: unusual, relax
+- Duration: 60 min
+- Accessibility: wheelchair. Trasa obejmuje hol, obie sale i Poziom 4. – wszystkie kondygnacje są dostępne windą, także jako alternatywa dla schodów kręconych. Potrzebę asysty zgłoś wcześniej: zwiedzanie@filharmonia.szczecin.pl.
+- Dlaczego warto: Budynek Filharmonii nazywany jest ikoną europejskiej architektury. Na zwiedzaniu zobaczysz salę symfoniczną, kameralną i Poziom 4., a całość trwa około 60 minut. Ta tura jest po polsku, w piątek o 15:00, bez wcześniejszej rezerwacji.
+- Why go: The Philharmonic building has been called an icon of European architecture. The tour takes you through the symphonic hall, the chamber hall and Poziom 4 in about 60 minutes. This tour is in Polish, on Fridays at 15:00, no booking needed.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2658-Zwiedzanie_Filharmonii_w_jezyku_polskim (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2658-Zwiedzanie_Filharmonii_w_jezyku_polskim)
+
+### FilHERmonia | Oda do młodości / PhilHERmonic | Ode to Youth
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-10-23 19:00 (few, 56 left)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth, debut; mood: superhits, emotional
+- Duration: 100 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Noa Wildschut (skrzypce); Aleksandra Melaniuk (dyrygent)
+- Programme: Antonín Dvořák: Legendy op. 59 nr 1-3; Max Bruch: I Koncert skrzypcowy g-moll op. 26; Felix Mendelssohn-Bartholdy: I Symfonia c-moll op.11
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Holenderska skrzypaczka Noa Wildschut ma 24 lata i gra już na najważniejszych scenach świata. Usłyszymy ją w I Koncercie skrzypcowym Maxa Brucha, a orkiestrę poprowadzi Aleksandra Melaniuk. Na finał symfonia, którą Mendelssohn napisał w wieku 15 lat.
+- Why go: Dutch violinist Noa Wildschut is 24 and already plays on the world's major stages. We'll hear her in Max Bruch's Violin Concerto No. 1, with Aleksandra Melaniuk conducting. The evening ends with a symphony Mendelssohn wrote at just 15.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2550-FilHERmonia__Oda_do_mlodosci (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2550-FilHERmonia__Oda_do_mlodosci)
+
+### Marsz Różowej Wstążki | Finał
+
+- Type: Wydarzenie; hall: Hol
+- Dates: 2026-10-24 12:00 (free)
+- Price: free entry
+- For: adults, families; mood: energy, unusual
+- Duration: 30 min
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Radosny, różowy korowód przeciwko rakowi piersi kończy się w holu Filharmonii. O 12:00 rozstrzygnięcie konkursu na najciekawszą różową stylizację, czekają też stoiska. Wstęp wolny, w marszu mogą iść kobiety, mężczyźni i dzieci.
+- Why go: A cheerful pink procession against breast cancer finishes in the Philharmonic hall. At 12:00 the prize for the best pink outfit is announced, and there are stands to visit. Free entry; women, men and children are all welcome to march.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2659-Marsz_Rozowej_Wstazki__Final (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2659-Marsz_Rozowej_Wstazki__Final)
+
+### Scena Zdrowia
+
+- Type: Wydarzenie; hall: Hol
+- Dates: 2026-10-24 14:00 (free)
+- Price: free entry
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Rozmowa o zdrowiu kobiet, profilaktyce i świadomym dbaniu o siebie z zaproszonymi ekspertkami i ekspertami. Będzie czas na pytania z sali. Wstęp wolny, hol Filharmonii, start o 14:00.
+- Why go: A conversation about women's health, prevention and looking after yourself, with invited experts. There will be time for questions from the audience. Free entry, Philharmonic hall, starts at 14:00.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2660-Scena_Zdrowia (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2660-Scena_Zdrowia)
+
+### Mitch&Mitch | Amore assoluto per Ennio
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2026-10-25 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: unusual, relax
+- Performers: Orkiestra Filharmonii w Szczecinie; Anna Brachaczek (gitara basowa); Magdalena Gajdzica (śpiew, flet); Magdalena Kordylasińska-Pękala (wibrafon, dzwonki, instrumenty perkusyjne); Małgorzata Sarbak (instrumenty klawiszowe); Joanna Wydmuch (waltornia); Maciej Moruś (perkusja); Bartłomiej Tyciński (gitara)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Mitch & Mitch z Gruppo Etereofonico grają materiał z nagrodzonej Fryderykiem płyty Amore assoluto per Ennio. Usłyszymy mniej znane utwory Morriconego z lat 1969–1971, inspirowane easy listeningiem i bossa novą. Lekko, elegancko i melodyjnie, czyli Morricone z innej strony niż filmowa.
+- Why go: Mitch & Mitch and their Gruppo Etereofonico play the Fryderyk-winning album Amore assoluto per Ennio. Expect lesser-known Morricone pieces from 1969–1971, inspired by easy listening and bossa nova. Light, elegant and melodic: Morricone beyond the film scores.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2601-MitchandMitch__Amore_assoluto_per_Ennio (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2601-MitchandMitch__Amore_assoluto_per_Ennio)
+
+### Koncert „Siebie daj”
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-26  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900097-Koncert_Siebie_daj (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900097-Koncert_Siebie_daj)
+
+### Piwnica pod Baranami – koncert jubileuszowy na 70-lecie
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-27  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900098-Piwnica_pod_Baranami_koncert_jubileuszowy_na_70_lecie (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900098-Piwnica_pod_Baranami_koncert_jubileuszowy_na_70_lecie)
+
+### Slavic Sessions
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2026-10-28 19:00 (soldout)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: unusual, emotional
+- Duration: 65 min
+- Performers: Mateusz Kowalski (gitara); Mak Grgić (gitara)
+- Programme: Pieśni ludowe ze Słowenii - Shepherd’s Paths, The Mill (oprac. Leon Firšt); Tańce bałkańskie - Macedonian Girl, Chicho (oprac. Miroslav Tadić); Jan Nepomucen Bobrowicz: Wariacje na temat La ci darem la mano W.A. Mozarta op. 6; Fryderyk Chopin: Mazurki op. 7 nr 1, 3 i 4 (arr. Jan Nepomucen Bobrowicz); Fryderyk Chopin: Nokturn b-moll op. 9 nr 1; Marek Pasieczny: Impresje polskie; Miroslav Tadić: Stana’s Lament; Miroslav Tadić: Walk Dance nr 2; Antonín Dvořák: Tańce słowiańskie op. 46 i op. 72 (wybór)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Album Slavic Sessions był nominowany do nagrody Grammy 2026 w kategorii kameralnej. Teraz Mateusz Kowalski i Mak Grgić zagrają ten program na żywo na dwie gitary: słoweńskie melodie ludowe, tańce bałkańskie, Chopina i Dvořáka. Ok. 65 minut bez przerwy.
+- Why go: The album Slavic Sessions was nominated for a 2026 Grammy in the chamber music category. Now Mateusz Kowalski and Mak Grgić play it live on two guitars: Slovenian folk tunes, Balkan dances, Chopin and Dvořák. About 65 minutes, no interval.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2597-Slavic_Sessions (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2597-Slavic_Sessions)
+
+### Koncert Finałowy Szczecińskiego Tygodnia Reformacji 2026: Pathlife
+
+- Type: Wydarzenie zewnętrzne; hall: Filharmonia
+- Dates: 2026-10-29  (external)
+- Price: tickets from the external organiser
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Wydarzenie organizatora zewnętrznego w budynku Filharmonii. Budynek ma windy na wszystkie kondygnacje; o miejsca dla wózków i inne potrzeby zapytaj organizatora.
+- Dlaczego warto: Koncert organizatora zewnętrznego w budynku Filharmonii. Program, ceny i bilety znajdziesz u organizatora.
+- Why go: A concert by an external organiser in the Philharmonic building. Programme, prices and tickets are available from the organiser.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/900099-Koncert_Finaowy_Szczecinskiego_Tygodnia_Reformacji_2026_Path (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/900099-Koncert_Finaowy_Szczecinskiego_Tygodnia_Reformacji_2026_Path)
+
+### Symfoniczny fundament / Symphonic Foundations
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-10-30 19:00 (available)
+- Price: 30–90 PLN; ticket types: normal 30–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth, debut; mood: superhits, energy
+- Duration: 110 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Olga Zado (fortepian); Przemysław Neumann (dyrygent)
+- Programme: Ludwig van Beethoven: Uwertura Coriolan op. 62; Ludwig van Beethoven: III Koncert fortepianowy c-moll op. 37; Wolfgang Amadeus Mozart: Symfonia nr 40 g-moll KV 550
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Dwa filary klasycyzmu w jeden wieczór: III Koncert fortepianowy Beethovena i Symfonia g-moll Mozarta, której początek zna prawie każdy. Solistką będzie Olga Zado, Orkiestrę Filharmonii poprowadzi Przemysław Neumann. Na ten koncert jest bilet studencki za 30 zł.
+- Why go: Two pillars of the classical era in one evening: Beethoven's Piano Concerto No. 3 and Mozart's Symphony in G minor, whose opening almost everyone knows. Soloist Olga Zado, with Przemysław Neumann conducting the Philharmonic Orchestra. A 30 zł student ticket is available for this concert.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2551-Symfoniczny_fundament (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2551-Symfoniczny_fundament)
+
+### Pomniki symfoniki | Mozart / Symphonic Monuments | Mozart
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-10-31 19:00 (available)
+- Price: 30–80 PLN; ticket types: normal 30–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: debut, adults, youth; mood: superhits
+- Duration: 65 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Przemysław Neumann (dyrygent)
+- Programme: Wolfgang Amadeus Mozart: Symfonia nr 40 g-moll KV 550
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Symfonia g-moll KV 550 Mozarta zaczyna się motywem, który każdy z nas choć raz słyszał. W cyklu Pomniki symfoniki dyrygent Przemysław Neumann najpierw opowiada o utworze (30 minut), a potem Orkiestra gra go w całości. Dobry start dla osób, które dopiero zaczynają przygodę z filharmonią.
+- Why go: Mozart's Symphony in G minor, K. 550, opens with a theme almost everyone has heard. In the Monuments of the Symphony series, conductor Przemysław Neumann first talks about the piece (30 minutes, in Polish), then the orchestra plays it in full. A good start if you're new to concerts.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2555-Pomniki_symfoniki__Mozart (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2555-Pomniki_symfoniki__Mozart)
+
+### Zwiedzanie Filharmonii w języku polskim (dostępne w PJM) / Sight-seeing the Philharmonic in Polish (with PJM interpretation)
+
+- Type: Zwiedzanie; hall: Sala kameralna, Galeria Poziom 4., Sala symfoniczna, Art.Room, Foyer sali symfonicznej, Hol
+- Dates: 2026-11-06 15:00 (available); 2026-12-04 15:00 (available)
+- Price: 20–30 PLN; ticket types: normal 30 zł, reduced 20 zł
+- For: adults, families; mood: unusual
+- Duration: 60 min
+- Accessibility: wheelchair, hearing support. Tłumacz polskiego języka migowego (PJM) towarzyszy grupie przez całą turę o 15:00; czeka w holu głównym przed 15:00, bez zapisów. Trasa obejmuje hol, obie sale i Poziom 4. – wszystkie kondygnacje są dostępne windą, także jako alternatywa dla schodów kręconych. Potrzebę asysty zgłoś wcześniej: zwiedzanie@filharmonia.szczecin.pl.
+- Dlaczego warto: Zwiedzanie po polsku z tłumaczem polskiego języka migowego (PJM), który towarzyszy grupie przez całą turę o 15:00. Osoby Głuche i słyszące mogą przyjść bez zapowiedzi, tłumacz czeka w holu głównym przed 15:00. Zobaczysz sale koncertowe i Poziom 4. budynku nazywanego ikoną architektury.
+- Why go: A tour in Polish with a Polish Sign Language (PJM) interpreter who stays with the group for the whole 15:00 tour. Deaf and hearing visitors can come without booking; the interpreter waits in the main hall before 15:00. You will see the concert halls and Poziom 4 of a building called an architectural icon.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2661-Zwiedzanie_Filharmonii_w_jezyku_polskim_dostepne_w_PJM (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2661-Zwiedzanie_Filharmonii_w_jezyku_polskim_dostepne_w_PJM)
+
+### Akademia słuchania | Przewodnik po koncertach / Listening Academy | A Guide to Concerts
+
+- Type: Warsztaty; hall: Sala kameralna
+- Dates: 2026-11-06 18:00 (free); 2027-02-26 18:00 (free); 2027-03-19 18:00 (free); 2027-04-02 18:00 (free)
+- Price: free entry
+- For: debut, adults; mood: unusual
+- Duration: 30 min
+- Performers: Jakub Stefek (prowadzenie)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Półgodzinny wykład dr. Jakuba Stefka przed koncertem symfonicznym: historie utworów, sylwetki kompozytorów i anegdoty, które pomagają pełniej przeżyć muzykę. Start o 18:00 w sali kameralnej. Wstęp wolny dla osób z biletem na koncert tego wieczoru.
+- Why go: A half-hour talk by Dr Jakub Stefek before a symphony concert: the stories behind the works, the composers and anecdotes that help you enjoy the music more. Starts at 18:00 in the chamber hall, in Polish. Free for holders of a ticket to that evening's concert.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2639-Akademia_sluchania__Przewodnik_po_koncertach (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2639-Akademia_sluchania__Przewodnik_po_koncertach)
+
+### Potęga i blask / Power and Splendour
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-11-06 19:00 (soldout)
+- Price: 30–110 PLN; ticket types: normal 30–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: energy
+- Duration: 105 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Esteban Batallán (trąbka); Christian Schumann (dyrygent)
+- Programme: Carl Maria von Weber: Uwertura do opery Oberon; Johann Nepomuk Hummel: Koncert na trąbkę i orkiestrę Es-dur, S.49; Georg Philipp Telemann: Koncert na trąbkę i orkiestrę D-dur, TWV 51:D7; Johannes Brahms: I Symfonia c-moll op. 68
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Esteban Batallán, od 2019 roku pierwszy trębacz Chicago Symphony Orchestra, zagra dwa wirtuozowskie koncerty na trąbkę: Hummla i Telemanna. W drugiej części I Symfonia Brahmsa. O 18:00 bezpłatny wykład wprowadzający dla osób z biletem.
+- Why go: Esteban Batallán, principal trumpet of the Chicago Symphony Orchestra since 2019, plays two virtuoso trumpet concertos by Hummel and Telemann. After the interval: Brahms's Symphony No. 1. Free introductory talk at 18:00 for ticket holders (in Polish).
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2556-Potega_i_blask (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2556-Potega_i_blask)
+
+### RANIUTTO
+
+- Type: Warsztaty; hall: Foyer sali symfonicznej
+- Dates: 2026-11-07 09:00 (soldout); 2026-11-08 09:00 (soldout); 2026-12-05 09:00 (not_yet); 2026-12-06 09:00 (not_yet); 2027-01-16 09:00 (not_yet); 2027-01-17 09:00 (not_yet); 2027-02-13 09:00 (not_yet); 2027-02-14 09:00 (not_yet); 2027-03-06 09:00 (not_yet); 2027-03-07 09:00 (not_yet); 2027-04-17 09:00 (not_yet); 2027-04-18 09:00 (not_yet); 2027-06-05 09:00 (not_yet); 2027-06-06 09:00 (not_yet)
+- Price: 45 PLN; ticket types: normal 45 zł
+- For: kids, families (age 1–2); mood: energy, unusual
+- Duration: 45 min
+- Performers: muzycy Orkiestry Filharmonii w Szczecinie; Natalia Wesołowska (prowadzenie); Bartłomiej Orłowski (prowadzenie)
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Weekendowe warsztaty dla najmłodszych z muzykami Filharmonii: gry rytmiczne i słuchowe, instrumenty z bliska i ciekawostki o kompozytorach. Ta grupa jest dla dzieci od 1. do 2. roku życia, zajęcia trwają 45 minut. Online kupisz bilet dziecka, a opiekun dokupuje swój w kasie tuż przed warsztatami.
+- Why go: Weekend morning workshops for the youngest with Philharmonic musicians: rhythm and listening games, instruments up close and fun facts about composers. This group is for children aged 1–2; sessions last 45 minutes. Buy the child's ticket online; the caregiver buys theirs at the box office just before the workshop.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2619-RANIUTTO (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2619-RANIUTTO)
+
+### RANIUTTO
+
+- Type: Warsztaty; hall: Foyer sali symfonicznej
+- Dates: 2026-11-07 10:30 (soldout); 2026-11-08 10:30 (soldout); 2026-12-05 10:30 (not_yet); 2026-12-06 10:30 (not_yet); 2027-01-16 10:30 (not_yet); 2027-01-17 10:30 (not_yet); 2027-02-13 10:30 (not_yet); 2027-02-14 10:30 (not_yet); 2027-03-06 10:30 (not_yet); 2027-03-07 10:30 (not_yet); 2027-04-17 10:30 (not_yet); 2027-04-18 10:30 (not_yet); 2027-06-05 10:30 (not_yet); 2027-06-06 10:30 (not_yet)
+- Price: 45 PLN; ticket types: normal 45 zł
+- For: kids, families (age 3–4); mood: energy, unusual
+- Duration: 45 min
+- Performers: muzycy Orkiestry Filharmonii w Szczecinie; Natalia Wesołowska (prowadzenie); Bartłomiej Orłowski (prowadzenie)
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Weekendowe warsztaty dla najmłodszych z muzykami Filharmonii: gry rytmiczne i słuchowe, instrumenty z bliska i ciekawostki o kompozytorach. Ta grupa jest dla dzieci od 3. do 4. roku życia, zajęcia trwają 45 minut. Online kupisz bilet dziecka, a opiekun dokupuje swój w kasie tuż przed warsztatami.
+- Why go: Weekend morning workshops for the youngest with Philharmonic musicians: rhythm and listening games, instruments up close and fun facts about composers. This group is for children aged 3–4; sessions last 45 minutes. Buy the child's ticket online; the caregiver buys theirs at the box office just before the workshop.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2620-RANIUTTO (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2620-RANIUTTO)
+
+### RANIUTTO
+
+- Type: Warsztaty; hall: Foyer sali symfonicznej
+- Dates: 2026-11-07 12:00 (soldout); 2026-11-08 12:00 (soldout); 2026-12-05 12:00 (not_yet); 2026-12-06 12:00 (not_yet); 2027-01-16 12:00 (not_yet); 2027-01-17 12:00 (not_yet); 2027-02-13 12:00 (not_yet); 2027-02-14 12:00 (not_yet); 2027-03-06 12:00 (not_yet); 2027-03-07 12:00 (not_yet); 2027-04-17 12:00 (not_yet); 2027-04-18 12:00 (not_yet); 2027-06-05 12:00 (not_yet); 2027-06-06 12:00 (not_yet)
+- Price: 45 PLN; ticket types: normal 45 zł
+- For: kids, families (age 5–6); mood: energy, unusual
+- Duration: 45 min
+- Performers: muzycy Orkiestry Filharmonii w Szczecinie; Natalia Wesołowska (prowadzenie); Bartłomiej Orłowski (prowadzenie)
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Weekendowe warsztaty dla najmłodszych z muzykami Filharmonii: gry rytmiczne i słuchowe, instrumenty z bliska i ciekawostki o kompozytorach. Ta grupa jest dla dzieci od 5. do 6. roku życia, zajęcia trwają 45 minut. Online kupisz bilet dziecka, a opiekun dokupuje swój w kasie tuż przed warsztatami.
+- Why go: Weekend morning workshops for the youngest with Philharmonic musicians: rhythm and listening games, instruments up close and fun facts about composers. This group is for children aged 5–6; sessions last 45 minutes. Buy the child's ticket online; the caregiver buys theirs at the box office just before the workshop.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2621-RANIUTTO (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2621-RANIUTTO)
+
+### Potęga brzmienia | Finał Trumpet Manii z Louisem Dowdeswellem / The Power of Sound | Trumpet Mania Finale with Louis Dowdeswell
+
+- Type: Koncert (jazz); hall: Sala symfoniczna
+- Dates: 2026-11-08 17:00 (available)
+- Price: 40–80 PLN; ticket types: normal 50–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: families, youth, adults; mood: energy, superhits
+- Performers: Trumpet Mania Big Band
+(przygotowanie: Tomasz Licak); OSM Big Band
+(uczniowie Ogólnokształcącej Szkoły Muzycznej I st. im. prof. M. Jasińskiego w Szczecinie); Louis Dowdeswell (trąbka)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Blisko pięćdziesięciu młodych trębaczy, profesjonalny big band i brytyjski wirtuoz Louis Dowdeswell na jednej scenie. W programie jazzowe standardy i bigbandowe wersje m.in. Gonna Fly Now z Rocky'ego i Let It Go z Krainy lodu. Muzyka z filmów i bajek ucieszy też młodszych słuchaczy.
+- Why go: Nearly fifty young trumpeters, a professional big band and British virtuoso Louis Dowdeswell on one stage. Jazz standards plus big-band versions of Gonna Fly Now from Rocky and Let It Go from Frozen, among others. Film and cartoon tunes make it fun for younger listeners too.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2655-Potega_brzmienia__Final_Trumpet_Manii_z_Louisem_Dowdeswellem (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2655-Potega_brzmienia__Final_Trumpet_Manii_z_Louisem_Dowdeswellem)
+
+### Konsonanse / Consonances
+
+- Type: Edukacja; hall: Sala kameralna
+- Dates: 2026-11-10 12:00 (few, 7 left); 2026-12-15 12:00 (available); 2027-03-16 12:00 (few, 19 left); 2027-04-27 12:00 (few, 17 left)
+- Price: 15–25 PLN; ticket types: normal 25 zł, reduced 15 zł, disabled 10 zł
+- For: adults; mood: relax, emotional
+- Duration: 60 min
+- Performers: Studenci i studentki Akademii Sztuki w Szczecinie
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Kameralne spotkanie dla seniorów, na którym grają studentki i studenci Akademii Sztuki w Szczecinie. Godzina muzyki bez przerwy, blisko wykonawców. To rozmowa pokoleń: młoda energia spotyka doświadczenie słuchaczy.
+- Why go: A chamber concert for seniors, played by students of the Academy of Art in Szczecin. One hour of music with no interval, close to the performers. A meeting of generations: young energy meets experienced listeners.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2622-Konsonanse (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2622-Konsonanse)
+
+### Wieniawski. Kontinuum | Uczestnicy 17. Konkursu Wieniawskiego / Wieniawski. Continuum | Participants of the 17th Wieniawski Competition
+
+- Type: Koncert kameralny; hall: Sala symfoniczna
+- Dates: 2026-11-13 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: energy, unusual
+- Performers: uczestnicy 17. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Co pięć lat skrzypcowy świat patrzy na Poznań: Konkurs Wieniawskiego to jeden z najstarszych i najbardziej prestiżowych konkursów muzycznych. W Szczecinie usłyszymy recital jego uczestników, czyli skrzypków, którzy mogą wkrótce zostać gwiazdami. Wśród dawnych laureatów są m.in. Dawid Ojstrach i Maxim Vengerov.
+- Why go: Every five years the violin world turns to Poznań: the Wieniawski Competition is one of the oldest and most prestigious music competitions. In Szczecin we hear a recital by its participants, violinists who may soon be stars. Past laureates include David Oistrakh and Maxim Vengerov.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2588-Wieniawski._Kontinuum__Uczestnicy_17._Konkursu_Wieniawskiego (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2588-Wieniawski._Kontinuum__Uczestnicy_17._Konkursu_Wieniawskiego)
+
+### Cudowny Amadeusz / Wonderful Amadeus
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2026-11-15 11:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: superhits, energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Jakub Grzybowski (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Ile lat miał Mozart, gdy napisał swój pierwszy utwór grany do dziś? Na tym koncercie obalimy mity i zajrzymy za kulisy wiedeńskiego życia kompozytora. Gra Orkiestra Symfoniczna Filharmonii, prowadzi Paulina Wojdyga, polecany wiek 5+.
+- Why go: How old was Mozart when he wrote his first piece still played today? This concert busts the myths and looks behind the scenes of the composer's life in Vienna. With the Philharmonic Symphony Orchestra, hosted by Paulina Wojdyga, recommended age 5+.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2613-Cudowny_Amadeusz (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2613-Cudowny_Amadeusz)
+
+### Laureat II nagrody 17. Konkursu Wieniawskiego | Moja ojczyzna vol. 1 / Second-Prize Winner of the 17th Wieniawski Competition | Má vlast, Vol. 1
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-11-20 19:00 (available)
+- Price: 80–140 PLN; ticket types: normal 100–140 zł, reduced 80–120 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional
+- Duration: 100 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Laureat II nagrody XVII Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego; Przemysław Neumann (dyrygent)
+- Programme: Koncert skrzypcowy; Bedřich Smetana: Z cyklu Moja ojczyzna: I. Wyszehrad, II. Wełtawa, III. Szarka
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Laureat II nagrody 17. Konkursu Wieniawskiego zagra z Orkiestrą Filharmonii koncert skrzypcowy. Nazwisko solisty poznamy po rozstrzygnięciu konkursu. W drugiej części pierwsze trzy poematy z cyklu Moja ojczyzna Smetany, w tym słynna Wełtawa.
+- Why go: The second-prize winner of the 17th Wieniawski Competition plays a violin concerto with the Philharmonic Orchestra; the name will be known once the competition ends. After the interval: the first three tone poems of Smetana's Má vlast, including the famous Vltava.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2557-Laureat_II_nagrody_17._Konkursu_Wieniawskiego__Moja_ojczyzna_vol._1 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2557-Laureat_II_nagrody_17._Konkursu_Wieniawskiego__Moja_ojczyzna_vol._1)
+
+### Zwycięzca 17. Konkursu Wieniawskiego | Moja ojczyzna vol. 2 / Winner of the First Prize of the 17th Wieniawski Competition | Má vlast, Vol. 2
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-11-22 19:00 (available)
+- Price: 80–140 PLN; ticket types: normal 100–140 zł, reduced 80–120 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional
+- Duration: 110 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Laureat I nagrody XVII Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego; Przemysław Neumann (dyrygent)
+- Programme: Koncert skrzypcowy; Bedřich Smetana: Z cyklu Moja ojczyzna: IV. Z czeskich łąk i gajów, V. Tabor, VI. Blanik
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Na scenę wchodzi zwycięzca 17. Międzynarodowego Konkursu Skrzypcowego im. Henryka Wieniawskiego, jednego z najstarszych i najważniejszych konkursów skrzypcowych świata. Po koncercie skrzypcowym Orkiestra dokończy cykl Moja ojczyzna Smetany, części IV–VI. Dyryguje Przemysław Neumann.
+- Why go: The winner of the 17th Henryk Wieniawski International Violin Competition, one of the world's oldest and most important violin competitions, takes the stage. After the violin concerto the orchestra completes Smetana's Má vlast, parts IV–VI. Conductor: Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2558-Zwyciezca_17._Konkursu_Wieniawskiego__Moja_ojczyzna_vol._2 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2558-Zwyciezca_17._Konkursu_Wieniawskiego__Moja_ojczyzna_vol._2)
+
+### Z czterech stron świata / From the four corners of the world
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2026-11-25 19:00 (soldout)
+- Price: 30–50 PLN; ticket types: normal 30–50 zł, reduced 40 zł, disabled 10 zł
+- For: adults; mood: unusual, emotional
+- Performers: Szczecin International String Quartet
+(SISQ)
+- Programme: Gian Francesco Malipiero: IV Kwartet smyczkowy; Karol Szymanowski: II Kwartet smyczkowy op. 56; Myroslav Skoryk: Dyptyk na kwartet smyczkowy; Soo Yeon Lyuh: Yessori (Dźwięki przeszłości)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Szczecin International String Quartet tworzą muzycy z Polski, Ukrainy, Włoch i Korei Południowej. Każdy utwór prowadzi do kraju jednego z nich: od Malipiera i Szymanowskiego po Skoryka i Soo Yeon Lyuh. Na ten koncert jest bilet za 30 zł z Kartą Seniora.
+- Why go: The Szczecin International String Quartet brings together musicians from Poland, Ukraine, Italy and South Korea. Each piece leads to one member's home country: from Malipiero and Szymanowski to Skoryk and Soo Yeon Lyuh. A 30 zł Senior Card ticket is available for this concert.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2598-Z_czterech_stron_swiata (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2598-Z_czterech_stron_swiata)
+
+### Maciej Rychły | Uwolnione dźwięki / Maciej Rychły | Liberated Sounds
+
+- Type: Koncert; hall: Sala kameralna
+- Dates: 2026-11-26 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: unusual, relax
+- Performers: Maciej Rychły (flety); Elisabeth Seitz (psałterion); Mateusz Rychły (gitary)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Koncert, pokaz i opowieść w jednym: Maciej i Mateusz Rychły odczytują muzykę zapisaną na obrazach dawnych mistrzów. Muzyka dawna spotyka się z historycznym malarstwem europejskim, a na scenie zabrzmią flety, psałterion i gitary.
+- Why go: Concert, show and story in one: Maciej and Mateusz Rychły read the music painted into old masters' pictures. Early music meets historic European painting, with flutes, psaltery and guitars on stage.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2604-Maciej_Rychly__Uwolnione_dzwieki (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2604-Maciej_Rychly__Uwolnione_dzwieki)
+
+### IV Międzynarodowy Konkurs Kompozytorski im. Mieczysława Karłowicza / The 4th International Mieczysław Karłowicz Composers’ Competition
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-11-27 19:00 (available)
+- Price: 40–80 PLN; ticket types: normal 50–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: unusual, energy
+- Duration: 135 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Szymon Bywalec (dyrygent)
+- Programme: Marcin Molski (Polska): La Dame à la licorne; Lorenzo Petrizzo (Włochy): Resonar; Olgierd Juzala-Deprati (Polska): SILVER MIRRORING; Erqing Wang (Chiny): the extraterrestrial excursion of Messrs. Chopin, Karłowicz, and Szymanowski through the asteroid belt, ca. 1909; Wojciech Chałupka (Polska): Vesper
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Finał IV Międzynarodowego Konkursu Kompozytorskiego im. Mieczysława Karłowicza: pięć nowych utworów na wielką orkiestrę symfoniczną. Publiczność jest zaproszona nie tylko do słuchania, ale też do oceniania jak jury. Muzyka, w której słychać, w jakich czasach żyjemy.
+- Why go: The final of the 4th Mieczysław Karłowicz International Composers' Competition: five new works for full symphony orchestra. The audience is invited not just to listen but to judge, like a jury. Music that shows the times we live in.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2559-IV_Miedzynarodowy_Konkurs_Kompozytorski_im._Mieczyslawa_Karlowicza (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2559-IV_Miedzynarodowy_Konkurs_Kompozytorski_im._Mieczyslawa_Karlowicza)
+
+### Requiem. Niedokończony testament / Requiem. An Unfinished Testament
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-04 19:00 (soldout)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional
+- Duration: 65 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Chór Politechniki Morskiej w Szczecinie
+(przygotowanie Sylwia Fabiańczyk-Makuch); Gabriela Legun (sopran); Joanna Dobrakowska (mezzosopran); Karol Kozłowski (tenor); Tomasz Theil (bas); Piotr Mazurek (dyrygent)
+- Programme: Wolfgang Amadeus Mozart: Requiem d-moll KV 626
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Requiem d-moll to ostatnie, niedokończone dzieło Mozarta, wokół którego narosło więcej legend niż wokół jakiegokolwiek innego utworu. Wykonają je Orkiestra Filharmonii, Chór Politechniki Morskiej i czworo solistów. 65 minut bez przerwy.
+- Why go: The Requiem in D minor is Mozart's last, unfinished work, surrounded by more legends than any other piece of music. Performed by the Philharmonic Orchestra, the Maritime University Choir and four soloists. 65 minutes, no interval.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2560-Requiem._Niedokonczony_testament (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2560-Requiem._Niedokonczony_testament)
+
+### Górska fotografia Mieczysława Karłowicza / Mieczysław Karłowicz’s Mountain Photography
+
+- Type: Wystawa; hall: Galeria Poziom 4., Art.Room
+- Dates: 2026-12-11 18:00 (free); 2026-12-12 12:00 (free); 2026-12-13 12:00 (free); 2026-12-14 12:00 (free); 2026-12-15 12:00 (free); 2026-12-16 12:00 (free); 2026-12-17 12:00 (free); 2026-12-18 12:00 (free); 2026-12-19 12:00 (free)
+- Price: free entry
+- For: adults, families; mood: unusual, relax
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Mieczysław Karłowicz był nie tylko kompozytorem, ale też taternikiem i fotografem gór; jego zdjęcia trafiły do historii polskiej fotografii. Wystawa pokazuje prace ze zbiorów Centralnego Ośrodka Turystyki Górskiej PTTK. W czasie Karłowicz Fest wstęp wolny.
+- Why go: Mieczysław Karłowicz was not only a composer but also a mountaineer and mountain photographer whose pictures made it into the history of Polish photography. The exhibition shows works from the PTTK Central Mountain Tourism Centre collection. Free entry during Karłowicz Fest.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2653-Gorska_fotografia_Mieczyslawa_Karlowicza (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2653-Gorska_fotografia_Mieczyslawa_Karlowicza)
+
+### KARŁOWICZ FEST | Inauguracja festiwalu / KARŁOWICZ FEST | Opening concert
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-11 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, energy
+- Duration: 110 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Alexandra Conunova (skrzypce); Przemysław Neumann (dyrygent)
+- Programme: Mieczysław Karłowicz: Koncert skrzypcowy A-dur op. 8; Mieczysław Karłowicz: Symfonia e-moll Odrodzenie op. 7
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: W 150. rocznicę urodzin patrona Filharmonia otwiera Karłowicz Fest, festiwal z jego poematami symfonicznymi w wykonaniu czołowych polskich orkiestr. Na otwarcie Alexandra Conunova zagra Koncert skrzypcowy A-dur, a Orkiestra Symfonię Odrodzenie. Dyryguje Przemysław Neumann.
+- Why go: On the 150th anniversary of its patron's birth, the Philharmonic opens Karłowicz Fest, with his symphonic poems played by leading Polish orchestras. On opening night Alexandra Conunova plays the Violin Concerto in A major and the orchestra performs the Rebirth Symphony. Conductor: Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2561-KARLOWICZ_FEST__Inauguracja_festiwalu (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2561-KARLOWICZ_FEST__Inauguracja_festiwalu)
+
+### KARŁOWICZ FEST | Góra-dół – być jak Karłowicz / KARŁOWICZ FEST | UP-Down – being Karłowicz
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2026-12-12 17:00 (soldout)
+- Price: 3–50 PLN; ticket types: normal 3–50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: emotional, unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Mateusz Ryczek (muzyka); Kinga Dalska (wizualizacje, scenografia, kostiumy); Patrycja Kowalska (scenariusz); Agata Kolasińska (scenariusz, aktorka); Magdalena Wrani-Stachowska (aktorka); Marta Uszko (aktorka); Adam Kuzycz-Berezowski (aktor); Wojciech Sandach (aktor); Maciej Kotarba (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Spektakl muzyczny o Karłowiczu opowiedziany przez pięć emocji: Radość, Strach, Gniew, Odrazę i Smutek. To autorska produkcja Filharmonii z muzyką Mateusza Ryczka, aktorkami i Orkiestrą Symfoniczną. Dla dzieci od 5 lat z opiekunami, w ramach Karłowicz Fest.
+- Why go: A music theatre show about Karłowicz told through five emotions: Joy, Fear, Anger, Disgust and Sadness. An original Philharmonic production with music by Mateusz Ryczek, actresses and the Symphony Orchestra. For children aged 5+ with adults, part of Karłowicz Fest.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2625-KARLOWICZ_FEST__Gora-dol__byc_jak_Karlowicz (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2625-KARLOWICZ_FEST__Gora-dol__byc_jak_Karlowicz)
+
+### KARŁOWICZ FEST | Akademia Młodego Melomana / KARŁOWICZ FEST | Young Music Lovers’ Academy
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2026-12-13 11:00 (available)
+- Price: 3–50 PLN; ticket types: normal 3–50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: relax, emotional
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Maciej Kotarba (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Wycieczka w góry, które Karłowicz kochał i które inspirowały jego poematy symfoniczne. Dzieci przekonają się, jak muzyka potrafi opowiadać historie bez słów. Koncert Akademii Młodego Melomana w ramach Karłowicz Fest, polecany wiek 5+.
+- Why go: A trip to the mountains Karłowicz loved and which inspired his symphonic poems. Children discover how music can tell stories without words. A Young Music Lovers' Academy concert within Karłowicz Fest, recommended age 5+.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2614-KARLOWICZ_FEST__Akademia_Mlodego_Melomana (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2614-KARLOWICZ_FEST__Akademia_Mlodego_Melomana)
+
+### KARŁOWICZ FEST | Samotna wędrówka / KARŁOWICZ FEST | A Solitary Journey
+
+- Type: Wydarzenie; hall: Sala kameralna
+- Dates: 2026-12-13 16:00 (free)
+- Price: free entry
+- For: adults; mood: unusual, emotional
+- Duration: 51 min
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Dokument Tomasza Knittla o Karłowiczu: kompozytorze, fotografie, publicyście i miłośniku Tatr, który zginął w lawinie w wieku 33 lat. Film trwa 51 minut. Wstęp bezpłatny, obowiązują wejściówki do odebrania w kasie.
+- Why go: Tomasz Knittel's documentary about Karłowicz: composer, photographer, writer and lover of the Tatras, who died in an avalanche at 33. The film runs 51 minutes. Free entry with passes collected at the box office.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2634-KARLOWICZ_FEST__Samotna_wedrowka (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2634-KARLOWICZ_FEST__Samotna_wedrowka)
+
+### KARŁOWICZ FEST | Między górami a muzyką / KARŁOWICZ FEST | Between the Mountains and Music
+
+- Type: Koncert; hall: Sala kameralna
+- Dates: 2026-12-13 17:30 (free)
+- Price: free entry
+- For: adults; mood: unusual
+- Performers: Andrzej Marcisz (taternik i alpinista); Mateusz Ryczek (kompozytor); Przemysław Neumann (Dyrektor Filharmonii w Szczecinie); Piotr Wojciechowski (redaktor książkowy i radiowy, prowadzenie)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Rozmowa o samotności w sztuce i w górach: czy proces twórczy przypomina wysokogórską wyprawę? Rozmawiają taternik Andrzej Marcisz, kompozytor Mateusz Ryczek i dyrektor Przemysław Neumann. Wstęp wolny, obowiązują wejściówki z kasy.
+- Why go: A conversation about solitude in art and in the mountains: is creating like a high-mountain expedition? With mountaineer Andrzej Marcisz, composer Mateusz Ryczek and director Przemysław Neumann (in Polish). Free entry with passes from the box office.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2635-KARLOWICZ_FEST__Miedzy_gorami_a_muzyka (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2635-KARLOWICZ_FEST__Miedzy_gorami_a_muzyka)
+
+### KARŁOWICZ FEST | Pieśni / KARŁOWICZ FEST | Songs
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2026-12-14 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: emotional, relax
+- Duration: 75 min
+- Performers: Izabela Matuła (sopran); Tomasz Rak (baryton); Mateusz Słowikowski (fortepian)
+- Programme: Mieczysław Karłowicz: Pieśni
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Wszystkie 22 zachowane pieśni Karłowicza w jeden wieczór: kompozytor w najbardziej intymnej odsłonie, jeszcze przed wielkimi poematami symfonicznymi. Śpiewają Izabela Matuła i Tomasz Rak, przy fortepianie Mateusz Słowikowski. 75 minut bez przerwy.
+- Why go: All 22 surviving songs by Karłowicz in one evening: the composer at his most intimate, before the great symphonic poems. Sung by Izabela Matuła and Tomasz Rak, with Mateusz Słowikowski at the piano. 75 minutes, no interval.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2599-KARLOWICZ_FEST__Piesni (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2599-KARLOWICZ_FEST__Piesni)
+
+### KARŁOWICZ FEST | Odwieczne pieśni / KARŁOWICZ FEST | Eternal Songs
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-15 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional
+- Duration: 90 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Przemysław Neumann (dyrygent)
+- Programme: Heinrich Urban: Szczurołap z Hameln op. 25; Mieczysław Karłowicz: Serenada na orkiestrę smyczkową op. 2; Mieczysław Karłowicz: Odwieczne pieśni op. 10
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Dwa oblicza Karłowicza: młodzieńcza, taneczna Serenada na smyczki i Odwieczne pieśni, w których muzyka staje się zapisem wewnętrznych przeżyć. Wieczór otworzy Szczurołap z Hameln Heinricha Urbana. Orkiestrę poprowadzi Przemysław Neumann.
+- Why go: Two sides of Karłowicz: the youthful, dance-like Serenade for strings and the Eternal Songs, where music becomes a record of inner experience. The evening opens with Heinrich Urban's The Pied Piper of Hamelin. Conductor: Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2562-KARLOWICZ_FEST__Odwieczne_piesni (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2562-KARLOWICZ_FEST__Odwieczne_piesni)
+
+### KARŁOWICZ FEST | Powracające fale / KARŁOWICZ FEST | Returning waves
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-16 19:00 (soldout)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional
+- Duration: 100 min incl. 30 min interval
+- Performers: Sinfonia Iuventus; Antoni Wit (dyrygent)
+- Programme: Mieczysław Karłowicz: Bianca da Molena op. 6; Mieczysław Karłowicz: Powracające fale op. 9; Robert Schumann: IV Symfonia d-moll op. 120
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Gościnnie Sinfonia Iuventus pod batutą Antoniego Wita. W programie poematy Karłowicza Bianca da Molena i Powracające fale oraz IV Symfonia Schumanna. Wieczór o Karłowiczu powściągliwym na zewnątrz i intensywnym w środku.
+- Why go: Guest orchestra Sinfonia Iuventus under Antoni Wit. On the programme: Karłowicz's Bianca da Molena and Returning Waves, plus Schumann's Symphony No. 4. An evening about Karłowicz, reserved on the outside and intense within.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2563-KARLOWICZ_FEST__Powracajace_fale (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2563-KARLOWICZ_FEST__Powracajace_fale)
+
+### Góra-dół – być jak Karłowicz / Up and Down – Being Like Karłowicz
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2026-12-17 10:00 (available); 2026-12-17 12:00 (available)
+- Price: 1–30 PLN; ticket types: normal 30 zł
+- For: schools, kids (age 7–15); mood: emotional, unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Mateusz Ryczek (muzyka); Kinga Dalska (wizualizacje, scenografia, kostiumy); Patrycja Kowalska (scenariusz); Agata Kolasińska (scenariusz, aktorka); Magdalena Wrani-Stachowska (aktorka); Marta Uszko (aktorka); Adam Kuzycz-Berezowski (aktor); Wojciech Sandach (aktor); Maciej Kotarba (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Spektakl muzyczny o Karłowiczu opowiedziany przez pięć emocji: Radość, Strach, Gniew, Odrazę i Smutek. To autorska produkcja Filharmonii z muzyką Mateusza Ryczka i Orkiestrą Symfoniczną. Wersja dla szkół podstawowych, rezerwacja grupowa tylko przez formularz.
+- Why go: A music theatre show about Karłowicz told through five emotions: Joy, Fear, Anger, Disgust and Sadness. An original Philharmonic production with music by Mateusz Ryczek and the Symphony Orchestra. Primary-school version; group bookings via the form only.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2629-Gora-dol__byc_jak_Karlowicz (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2629-Gora-dol__byc_jak_Karlowicz)
+
+### KARŁOWICZ FEST | Epizod na maskaradzie / KARŁOWICZ FEST | An Episode at a Masquerade
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-17 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, energy
+- Duration: 90 min incl. 30 min interval
+- Performers: Orkiestra Filharmonii Łódzkiej; Paweł Przytocki (dyrygent)
+- Programme: Richard Strauss: Don Juan op. 20; Mieczysław Karłowicz: Smutna opowieść op. 13; Mieczysław Karłowicz: Epizod na maskaradzie op. 14
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Orkiestra Filharmonii Łódzkiej prowadzi nas od początku do końca drogi Karłowicza. Wieczór otwiera Don Juan Straussa, którego Karłowicz podziwiał, a potem dwa utwory z ostatniego okresu jego życia: Smutna opowieść i Epizod na maskaradzie. Dyryguje Paweł Przytocki.
+- Why go: The Łódź Philharmonic Orchestra takes us from the beginning to the end of Karłowicz's path. The evening opens with Strauss's Don Juan, which Karłowicz admired, followed by two works from his final years: A Sorrowful Tale and An Episode at a Masquerade. Conductor: Paweł Przytocki.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2564-KARLOWICZ_FEST__Epizod_na_maskaradzie (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2564-KARLOWICZ_FEST__Epizod_na_maskaradzie)
+
+### KARŁOWICZ FEST | Pomniki symfoniki / KARŁOWICZ FEST | Symphonic monuments
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-18 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, debut; mood: emotional, superhits
+- Duration: 75 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Przemysław Neumann (dyrygent)
+- Programme: Mieczysław Karłowicz: Symfonia e-moll Odrodzenie op. 7
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Symfonia Odrodzenie to jedno z najważniejszych dzieł polskiej symfoniki, łączące osobiste przeżycie z uniwersalną opowieścią o człowieku. Przed wykonaniem 30-minutowy wykład dyrygenta Przemysława Neumanna. Koncert trwa 75 minut bez przerwy.
+- Why go: The Rebirth Symphony is one of the key works of Polish symphonic music, joining personal experience with a universal story about being human. Before the performance, a 30-minute talk by conductor Przemysław Neumann (in Polish). The concert lasts 75 minutes, no interval.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2565-KARLOWICZ_FEST__Pomniki_symfoniki (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2565-KARLOWICZ_FEST__Pomniki_symfoniki)
+
+### KARŁOWICZ FEST | Zakończenie festiwalu / KARŁOWICZ FEST | Festival Finale
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2026-12-19 19:00 (few, 7 left)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional, energy
+- Duration: 100 min incl. 30 min interval
+- Performers: Orkiestra Polskiej Filharmonii Bałtyckiej; Piotr Pawlak (fortepian); Daniel Smith (dyrygent)
+- Programme: John Adams: Short Ride in a Fast Machine; Sergiej Rachmaninow: II Koncert fortepianowy c-moll op. 18; Mieczysław Karłowicz: Stanisław i Anna Oświecimowie op. 12
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Na finał festiwalu Orkiestra Polskiej Filharmonii Bałtyckiej i pianista Piotr Pawlak w II Koncercie fortepianowym Rachmaninowa. Obok poemat Karłowicza Stanisław i Anna Oświecimowie, opowieść o miłości bez spełnienia. Na początek energiczne Short Ride in a Fast Machine Johna Adamsa.
+- Why go: To close the festival: the Polish Baltic Philharmonic Orchestra and pianist Piotr Pawlak in Rachmaninoff's Piano Concerto No. 2. Alongside it, Karłowicz's tone poem Stanisław and Anna Oświecim, a story of unfulfilled love. It all starts with John Adams's energetic Short Ride in a Fast Machine.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2566-KARLOWICZ_FEST__Zakonczenie_festiwalu (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2566-KARLOWICZ_FEST__Zakonczenie_festiwalu)
+
+### Górska fotografia Mieczysława Karłowicza / Mieczysław Karłowicz’s Mountain Photography
+
+- Type: Wystawa; hall: Galeria Poziom 4., Art.Room
+- Dates: 2026-12-20 12:00 (available); 2027-01-02 12:00 (available); 2027-01-03 12:00 (available); 2027-01-09 12:00 (available); 2027-01-10 12:00 (available)
+- Price: 10 PLN; ticket types: normal 10 zł
+- For: adults, families; mood: unusual, relax
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Mieczysław Karłowicz był nie tylko kompozytorem, ale też taternikiem i fotografem gór; jego zdjęcia trafiły do historii polskiej fotografii. Wystawa pokazuje prace ze zbiorów Centralnego Ośrodka Turystyki Górskiej PTTK. Bilet 10 zł obejmuje Galerię Poziom 4. i Art.Room.
+- Why go: Mieczysław Karłowicz was not only a composer but also a mountaineer and mountain photographer whose pictures made it into the history of Polish photography. Works from the PTTK Central Mountain Tourism Centre collection. A 10 zł ticket covers Galeria Poziom 4 and Art.Room.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2636-Gorska_fotografia_Mieczyslawa_Karlowicza (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2636-Gorska_fotografia_Mieczyslawa_Karlowicza)
+
+### American swing | Koncert sylwestrowy / American swing | New Year’s Eve Concert
+
+- Type: Koncert symfoniczny (jazz); hall: Sala symfoniczna
+- Dates: 2026-12-31 20:00 (few, 14 left)
+- Price: 190–250 PLN; ticket types: normal 210–250 zł, reduced 190–230 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Natalia Muianga (wokal); Maciej Pawlak (wokal); Kuba Wnuk (dyrygent); Bartłomiej Kasprzykowski (prowadzenie)
+- Programme: Irving Berlin: Heaven, I'm in heaven; Bart Howard: Fly me to the Moon; Cole Porter: Night and Day; Harold Arlen, Yip Harburg: Over the Rainbow; George Gershwin, Ira Gershwin: I Got Rhythm
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Sylwestrowy wieczór w złotej epoce amerykańskiego swingu: Fly Me to the Moon, Night and Day czy Over the Rainbow w aranżacjach na orkiestrę symfoniczną. Śpiewają Natalia Muianga i Maciej Pawlak, dyryguje Kuba Wnuk.
+- Why go: New Year's Eve in the golden age of American swing: Fly Me to the Moon, Night and Day and Over the Rainbow, arranged for symphony orchestra. Sung by Natalia Muianga and Maciej Pawlak, conducted by Kuba Wnuk.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2567-American_swing__Koncert_sylwestrowy (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2567-American_swing__Koncert_sylwestrowy)
+
+### American swing | Koncert noworoczny / American swing | New Year’s Concert
+
+- Type: Koncert symfoniczny (jazz); hall: Sala symfoniczna
+- Dates: 2027-01-01 17:00 (available)
+- Price: 150–230 PLN; ticket types: normal 170–230 zł, reduced 150–210 zł, disabled 10 zł, wheel 10 zł
+- For: adults, families; mood: superhits, energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Natalia Muianga (wokal); Maciej Pawlak (wokal); Kuba Wnuk (dyrygent); Bartłomiej Kasprzykowski (prowadzenie)
+- Programme: Irving Berlin: Heaven, I'm in heaven; Bart Howard: Fly me to the Moon; Cole Porter: Night and Day; Harold Arlen, Yip Harburg: Over the Rainbow; George Gershwin, Ira Gershwin: I Got Rhythm
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Noworoczne popołudnie w złotej epoce amerykańskiego swingu: Fly Me to the Moon, Night and Day czy Over the Rainbow w aranżacjach na orkiestrę symfoniczną. Śpiewają Natalia Muianga i Maciej Pawlak, dyryguje Kuba Wnuk.
+- Why go: A New Year's Day afternoon in the golden age of American swing: Fly Me to the Moon, Night and Day and Over the Rainbow, arranged for symphony orchestra. Sung by Natalia Muianga and Maciej Pawlak, conducted by Kuba Wnuk.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2568-American_swing__Koncert_noworoczny (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2568-American_swing__Koncert_noworoczny)
+
+### Koncert prezydencki / Presidential concert
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-01-08 19:00 (available); 2027-01-09 19:00 (few, 4 left); 2027-01-10 19:00 (few, 8 left)
+- Price: 110–170 PLN; ticket types: normal 130–170 zł, reduced 110–150 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Magdalena Miśka-Jackowska (prowadzenie); Przemysław Neumann (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Gospodarzem wieczoru jest Prezydent Miasta Szczecin, a tegoroczny koncert przeniesie publiczność w świat weneckiego karnawału. W programie m.in. fragmenty Giocondy Ponchiellego, Nocy w Wenecji Johanna Straussa i Saturn Holsta. Prowadzi Magdalena Miśka-Jackowska.
+- Why go: Hosted by the Mayor of Szczecin, this year's concert takes the audience into the world of the Venice carnival. The programme includes excerpts from Ponchielli's La Gioconda, Johann Strauss's A Night in Venice and Holst's Saturn. Presented by Magdalena Miśka-Jackowska.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2569-Koncert_prezydencki (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2569-Koncert_prezydencki)
+
+### Oder Music
+
+- Type: Koncert kameralny; hall: Hol
+- Dates: 2027-01-13 19:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł
+- For: adults, youth; mood: unusual
+- Duration: 65 min
+- Performers: ÉxQuartet
+- Accessibility: wheelchair. Hol na parterze jest bez barier (wejście z poziomu chodnika, kasa, szatnia, kawiarnia); foyer sali symfonicznej dostępne windą. Brak numeracji miejsc. Toalety dla osób z niepełnosprawnościami na parterze i 1. piętrze.
+- Dlaczego warto: Czy można zagrać miasto? ÉxQuartet wykona Oder Music Grzegorza Sadowskiego: muzykę na kwartet smyczkowy i elektronikę z przetworzonymi dźwiękami Szczecina. Koncert w holu Filharmonii, 65 minut bez przerwy.
+- Why go: Can you play a city? ÉxQuartet performs Grzegorz Sadowski's Oder Music for string quartet and electronics, built from processed sounds of Szczecin. A concert in the Philharmonic hall, 65 minutes, no interval.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2594-Oder_Music (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2594-Oder_Music)
+
+### Bester Quartet
+
+- Type: Koncert; hall: Sala kameralna
+- Dates: 2027-01-14 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: unusual, emotional
+- Performers: Bester Quartet
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Bester Quartet to nowe oblicze legendarnego The Cracow Klezmer Band, założonego w 1997 roku przez Jarosława Bestera. Czterej instrumentaliści łączą klasykę, jazz i awangardę, a fundamentem ich muzyki jest improwizacja.
+- Why go: Bester Quartet is the new face of the legendary Cracow Klezmer Band, founded in 1997 by Jarosław Bester. The four players blend classical, jazz and avant-garde, with improvisation at the heart of their music.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2605-Bester_Quartet (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2605-Bester_Quartet)
+
+### Wdzięk i bunt | Beethoven 200 / Grace and Rebellion | Beethoven 200
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-01-15 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: superhits, energy
+- Duration: 120 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Mario Bruno (flet); Mario Venzago (dyrygent)
+- Programme: Mario Venzago: Ulysses; Wolfgang Amadeus Mozart: Koncert na flet i orkiestrę G-dur KV 313; Ludwig van Beethoven: III Symfonia Es-dur op. 55 Eroica
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: W cyklu Beethoven 200 zabrzmi III Symfonia Es-dur Eroica. Mario Bruno zagra Koncert fletowy G-dur Mozarta, a Mario Venzago poprowadzi też własny utwór Ulysses.
+- Why go: Part of the Beethoven 200 series: Symphony No. 3 in E-flat major, Eroica. Mario Bruno plays Mozart's Flute Concerto in G major, and Mario Venzago also conducts his own piece, Ulysses.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2570-Wdziek_i_bunt__Beethoven_200 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2570-Wdziek_i_bunt__Beethoven_200)
+
+### I żyli długo i w Szczecinie / Lived in Szczecin happily ever after
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-01-20 10:00 (available); 2027-01-20 12:00 (available); 2027-01-21 10:00 (available); 2027-01-21 12:00 (available)
+- Price: 1–30 PLN; ticket types: normal 30 zł
+- For: schools, kids (age 7–12); mood: energy, superhits
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; tancerze Zespołu Pieśni i Tańca „Szczecinianie“; Malina Prześluga-Delimata (scenariusz); Maciej Litkowski (reżyseria); Kinga Dalska (kostiumy); Weronika Lalik (przygotowanie wokalne); Magdalena Wrani-Stachowska (aktorka); Konrad Beta (aktor); Julita Borowiecka (wokal); Hanna Ferfet (wokal); Nikola Gierszewska (wokal); Łucja Kurzyp (wokal); Lena Siergiej (wokal); Wiktoria Szewczyk (wokal); Filip Łukowski (wokal); Miłosz Rączkowski (wokal); Maksymilian Szacht (wokal); Miłosz Krysiak (wokal, rola Gryfa); Mateusz Czarnowski (dyrygent, kompozytor)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Najsłynniejsze piosenki o Szczecinie wracają w koncertowo-musicalowej odsłonie: muzyka, taniec i opowieść o miłości splecionej z rytmem miasta. Na scenie młodzi wokaliści, tancerze Zespołu „Szczecinianie” i Orkiestra Symfoniczna Filharmonii. Dla klas I–VI, rezerwacja grupowa przez formularz.
+- Why go: The best-known songs about Szczecin return as a concert-musical: music, dance and a love story woven into the rhythm of the city. On stage: young singers, dancers of the Szczecinianie ensemble and the Philharmonic Symphony Orchestra. For school years 1–6, group booking via the form.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2628-I_zyli_dlugo_i_w_Szczecinie (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2628-I_zyli_dlugo_i_w_Szczecinie)
+
+### Solista | Bartek Otocki / Soloist | Bartek Otocki
+
+- Type: Wystawa; hall: Galeria Poziom 4
+- Dates: 2027-01-21 19:00 (free)
+- Price: free entry
+- For: adults; mood: unusual, relax
+- Performers: Bartek Otocki
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Malarstwo Bartka Otockiego o samotności wpisanej w akt twórczy, jak u solisty stojącego przed orkiestrą. Wernisaż w Galerii Poziom 4., wstęp wolny.
+- Why go: Paintings by Bartek Otocki about the solitude built into creating, like a soloist standing before an orchestra. Opening night at Galeria Poziom 4, free entry.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2645-Solista__Bartek_Otocki (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2645-Solista__Bartek_Otocki)
+
+### Flowers | Slevin Aaron
+
+- Type: Wystawa; hall: Art.Room
+- Dates: 2027-01-21 19:00 (free)
+- Price: free entry
+- For: adults; mood: unusual, relax
+- Performers: Slevin Aaron
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Fotografie Slevina Aarona, w których twarze modeli zastępują rozbudowane kompozycje kwiatowe. Miękkie, malarskie światło i miejsce na własną interpretację. Wernisaż w Art.Roomie, wstęp wolny.
+- Why go: Photographs by Slevin Aaron in which the models' faces are replaced by elaborate flower arrangements. Soft, painterly light and room for your own interpretation. Opening night at Art.Room, free entry.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2647-Flowers__Slevin_Aaron (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2647-Flowers__Slevin_Aaron)
+
+### Atom Goes Funky
+
+- Type: Koncert (jazz); hall: Sala symfoniczna
+- Dates: 2027-01-22 19:00 (few, 16 left)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: energy, unusual
+- Performers: Atom String Quartet
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Atom String Quartet sprawdza, czy funk obejdzie się bez gitar i syntezatorów, skoro zostaje rytm, energia i wyobraźnia. Projekt sięga po muzykę z czasów, gdy w Polsce lat 70. i 80. kwitła jedna z najciekawszych scen jazzowych Europy: Urbaniak, Seifert, Namysłowski.
+- Why go: Atom String Quartet asks whether funk can do without guitars and synths, as long as rhythm, energy and imagination remain. The project draws on music from 1970s–80s Poland, home to one of Europe's most exciting jazz scenes: Urbaniak, Seifert, Namysłowski.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2589-Atom_Goes_Funky (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2589-Atom_Goes_Funky)
+
+### Jak cisza stworzyła muzykę, która nigdy nie ucichnie / How Silence Created Music That Never Fell Silent
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-01-24 11:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: emotional, superhits
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Andrzej Mandryka (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Opowieść o Beethovenie, który nie pogodził się z losem i zamienił własne ograniczenia w siłę twórczą: jego IX Symfonię usłyszeli wszyscy poza nim samym. Koncert dla dzieci od 5 lat z Orkiestrą Symfoniczną Filharmonii, prowadzi Paulina Wojdyga.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2615-Jak_cisza_stworzyla_muzyke_ktora_nigdy_nie_ucichnie (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2615-Jak_cisza_stworzyla_muzyke_ktora_nigdy_nie_ucichnie)
+
+### W głębinie uczuć / In the Depths of Emotion
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-01-29 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, superhits
+- Duration: 110 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Vincent Ong (fortepian); Przemysław Neumann (dyrygent)
+- Programme: Witold Maliszewski: Uwertura radosna op. 11; Fryderyk Chopin: Koncert fortepianowy e-moll op. 11; Claude Debussy: La Mer
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Koncert fortepianowy e-moll Chopina w wykonaniu Vincenta Onga, a na finał La Mer Debussy'ego. Wieczór otworzy Uwertura radosna Witolda Maliszewskiego, kompozytora z pokolenia Karłowicza. Dyryguje Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2571-W_glebinie_uczuc (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2571-W_glebinie_uczuc)
+
+### Pomniki symfoniki | Debussy / Symphonic Monuments | Debussy
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-01-30 19:00 (available)
+- Price: 30–80 PLN; ticket types: normal 30–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: debut, adults, youth; mood: superhits, relax
+- Duration: 60 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Przemysław Neumann (dyrygent)
+- Programme: Claude Debussy: La Mer
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: La Mer Debussy'ego w morskim mieście: najpierw 30-minutowa opowieść dyrygenta Przemysława Neumanna, potem całe dzieło w wykonaniu Orkiestry, godzina bez przerwy. Na ten koncert jest bilet studencki i bilet z Kartą Seniora za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2572-Pomniki_symfoniki__Debussy (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2572-Pomniki_symfoniki__Debussy)
+
+### Borys Janczarski Ensemble & Larry Browne
+
+- Type: Koncert (jazz); hall: Sala symfoniczna
+- Dates: 2027-02-01 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: relax, emotional
+- Performers: Borys Janczarski Ensemble; Larry Browne (trąbka); Mary Rumi (wokal); Robert Majewski (trąbka)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Elegancki jazz i osobista opowieść o uczuciach: Borys Janczarski Ensemble z Larrym Browne'em, Robertem Majewskim i Mary Rumi gra materiał z albumu Love is. W programie m.in. It Ain't Necessarily So Gershwina i Les feuilles mortes.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2609-Borys_Janczarski_Ensemble_and_Larry_Browne (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2609-Borys_Janczarski_Ensemble_and_Larry_Browne)
+
+### Pochwała natury | Beethoven 200 / Ode to Nature | Beethoven 200
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-02-05 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, debut; mood: relax, superhits
+- Duration: 120 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Anna Bownik (fagot); Michał Szydłowski (fagot); Benjamin Bayl (dyrygent)
+- Programme: Einojuhani Rautavaara: Cantus Arcticus op. 61; Johann Baptist Vanhal: Koncert na dwa fagoty F-dur; Ludwig van Beethoven: VI Symfonia F-dur op. 68 Pastoralna
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: VI Symfonia Pastoralna Beethovena, czyli muzyka chwili, gdy wychodzisz z domu prosto między pola i lasy. W programie także rzadko grany Koncert na dwa fagoty Vanhala z Anną Bownik i Michałem Szydłowskim oraz Cantus Arcticus Rautavaary.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2573-Pochwala_natury__Beethoven_200 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2573-Pochwala_natury__Beethoven_200)
+
+### Chopin zaśpiewany / Chopin's songs
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2027-02-10 19:00 (soldout)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: emotional
+- Duration: 65 min
+- Performers: Equilibrium String Quartet; Olga Pasiecznik (sopran)
+- Programme: Fryderyk Chopin: Pieśni op. 74 (wybór); Franciszek Lessel: Fantazja C-dur na kwartet smyczkowy; Stanisław Moniuszko: I Kwartet smyczkowy d-moll; Józef Elsner: Kwartet smyczkowy d-moll op. 8 nr 3; Karol Kurpiński: Fantazja C-dur na kwartet smyczkowy
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Muzyczny zapis historii Polski lat 1806–1845: pieśni Chopina z op. 74 śpiewa Olga Pasiecznik, a Equilibrium String Quartet gra utwory Elsnera, Kurpińskiego, Lessla i Moniuszki. Ok. 65 minut bez przerwy.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2600-Chopin_zaspiewany (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2600-Chopin_zaspiewany)
+
+### Quo vadis?
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-02-12 19:00 (available)
+- Price: 30–110 PLN; ticket types: normal 30–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, energy
+- Duration: 100 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Chór Teatru Wielkiego w Poznaniu; Ewa Tracz (sopran); Mateusz Michałowski (baryton); Wojciech Gierlach (bas); Przemysław Neumann (dyrygent)
+- Programme: Feliks Nowowiejski: Quo vadis? op. 30
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Oratorium Quo vadis? Feliksa Nowowiejskiego to jedno z najbardziej spektakularnych dzieł polskiej muzyki, osadzone w starożytnym Rzymie z powieści Sienkiewicza. Wystąpią Orkiestra Filharmonii, Chór Teatru Wielkiego w Poznaniu i troje solistów. 100 minut bez przerwy.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2574-Quo_vadis (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2574-Quo_vadis)
+
+### Hyuk Lee & Hyo Lee | Na dwa fortepiany | Beethoven 200 / Hyuk Lee & Hyo Lee | For Two Pianos | Beethoven 200
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2027-02-19 19:00 (available)
+- Price: 30–110 PLN; ticket types: normal 30–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: energy, unusual
+- Performers: Hyuk Lee (fortepian); Hyo Lee (fortepian)
+- Programme: Arthur Benjamin: Sześć utworów karaibskich na dwa fortepiany; Maurice Ravel: La Valse (opracowanie kompozytora na dwa fortepiany); Ludwig van Beethoven: IX Symfonia op. 125 w opracowaniu Ferenca Liszta na dwa fortepiany
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Bracia Hyuk i Hyo Lee to jeden z najciekawszych duetów fortepianowych młodej generacji; Hyuk Lee był finalistą XIX Konkursu Chopinowskiego. Usłyszymy La Valse Ravela i IX Symfonię Beethovena w opracowaniu Liszta na dwa fortepiany.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2590-Hyuk_Lee_and_Hyo_Lee__Na_dwa_fortepiany__Beethoven_200 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2590-Hyuk_Lee_and_Hyo_Lee__Na_dwa_fortepiany__Beethoven_200)
+
+### Niepoprawni romantycy / Unbound Romantics
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-02-26 19:00 (soldout)
+- Price: 30–90 PLN; ticket types: normal 30–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional, unusual
+- Duration: 100 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Arielle Beck (fortepian); Yesong Lee (wiolonczela); Grzegorz Sadowski (altówka); Josep Caballé Domenech (dyrygent)
+- Programme: Felix Mendelssohn-Bartholdy: Uwertura do Snu nocy letniej; Felix Mendelssohn-Bartholdy: I Koncert fortepianowy g-moll op. 25; Richard Strauss: Don Kichot op. 35
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Prawie dokładnie 200 lat po pierwszym publicznym wykonaniu w Szczecinie (20 lutego 1827) wraca Uwertura do Snu nocy letniej Mendelssohna. Arielle Beck zagra I Koncert fortepianowy Mendelssohna, a w Don Kichocie Straussa wystąpią Yesong Lee i Grzegorz Sadowski. O 18:00 bezpłatny wykład Akademii słuchania.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2575-Niepoprawni_romantycy (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2575-Niepoprawni_romantycy)
+
+### Klarnetowe uniwersum / The clarinet universe
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2027-03-03 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: emotional, unusual
+- Duration: 65 min
+- Performers: Kwartet Śląski; Jean-Marc Fessard (klarnet); Armand Fessard (klarnet, klarnet basowy)
+- Programme: Felix Mendelssohn-Bartholdy: Konzertstück f-moll op. 113; Felix Mendelssohn-Bartholdy: Konzertstück d-moll op. 114; Heinrich Joseph Baermann: Adagio na klarnet i kwartet smyczkowy; Johannes Brahms: Kwintet klarnetowy h-moll op. 115
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Ojciec i syn, Jean-Marc i Armand Fessard, zagrają z Kwartetem Śląskim muzykę napisaną 200 lat temu dla ojca i syna: Konzertstücke Mendelssohna. W programie także Kwintet klarnetowy Brahmsa. Ok. 65 minut bez przerwy.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2595-Klarnetowe_uniwersum (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2595-Klarnetowe_uniwersum)
+
+### Muzykanci | Słowińscy & Hałasowie
+
+- Type: Koncert; hall: Sala kameralna
+- Dates: 2027-03-04 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: energy, emotional
+- Performers: Zosia Słowińska (śpiew); Stanisław Słowiński – skrzypce; Jan Słowiński (altówka, basy, śpiew); Jacek Hałas (śpiew, akordeon, lira korbowa); Alicja Choromańska-Hałas (bęben, gardon); Jakub Hałas (akordeon); Jonasz Hałas (trąbka)
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Muzykanci to legenda polskiej sceny folkowej: pieśni tradycyjne z niemal całej Polski, śpiewane na głosy i z wielką sceniczną ekspresją. Koncert pamięci Joanny Słowińskiej, współtwórczyni i solistki zespołu.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2606-Muzykanci__Slowinscy_and_Halasowie (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2606-Muzykanci__Slowinscy_and_Halasowie)
+
+### W rytmie Paryża / In the Rhythm of Paris
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-03-05 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults, debut, youth; mood: superhits, energy
+- Duration: 90 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Maria Sakowska (skrzypce); Paweł Kapuła (dyrygent)
+- Programme: Gabriel Fauré: Pawana op. 50; Igor Strawiński: Koncert skrzypcowy D-dur; Maurice Ravel: Suita Moja matka gęś; Maurice Ravel: Bolero
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Bolero Ravela, Pawana Faurégo i suita Moja matka gęś, czyli wielka muzyka zbudowana z bardzo prostych pomysłów. Maria Sakowska zagra Koncert skrzypcowy Strawińskiego, dyryguje Paweł Kapuła.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2576-W_rytmie_Paryza (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2576-W_rytmie_Paryza)
+
+### Awantura w Filharmonii, vol. 2 / Chaos at the Philharmonic vol. 2
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-03-07 17:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: energy, unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Rafał Hajdukiewicz (aktor); Maciej Sikorski (aktor); Daniel Mieczkowski (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Kolejna rodzinna awantura w złotej sali: tym razem spierają się dwaj kompozytorzy z tego samego miasta, a nawet z tej samej szkoły. Grają aktorzy Rafał Hajdukiewicz i Maciej Sikorski oraz Orkiestra Symfoniczna Filharmonii. Dla dzieci od 5 lat z opiekunami.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2626-Awantura_w_Filharmonii_vol._2 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2626-Awantura_w_Filharmonii_vol._2)
+
+### Awantura w Filharmonii, vol. 2 / Chaos at the Philharmonic vol. 2
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-03-11 10:00 (not_yet); 2027-03-11 12:00 (not_yet); 2027-04-22 10:00 (not_yet); 2027-04-22 12:00 (not_yet)
+- Price: 1–30 PLN; ticket types: normal 30 zł
+- For: schools, youth (age 10–15); mood: energy, unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Rafał Hajdukiewicz (aktor); Maciej Sikorski (aktor); Daniel Mieczkowski (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Muzyczna awantura dwóch kompozytorów z tego samego miasta, a nawet z tej samej szkoły, z aktorami i Orkiestrą Symfoniczną Filharmonii. Wersja dla klas IV–VIII. Rezerwacja grupowa tylko przez formularz, dostępny od 1 grudnia 2026.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2627-Awantura_w_Filharmonii_vol._2 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2627-Awantura_w_Filharmonii_vol._2)
+
+### Collegium Marianum | Dawno, dawno temu... / Collegium Marianum | Once upon a time...
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2027-03-12 19:00 (available)
+- Price: 30–90 PLN; ticket types: normal 30–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: relax, unusual
+- Performers: Collegium Marianum; Jana Semerádová (flet traverso)
+- Programme: Johann Bernhard Bach: II Suita orkiestrowa e-moll Rozkosze; Georg Philipp Telemann: Koncert fletowy D-dur TWV 51:D2; Georg Philipp Telemann: Uwertura-suita d-moll TWV 55:d1; Johann Sebastian Bach: II Suita orkiestrowa h-moll BMV 1067
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Praski zespół Collegium Marianum od blisko trzech dekad przywraca do życia muzykę XVII i XVIII wieku na instrumentach historycznych. Z flecistką Janą Semerádovą zagra suity Bacha i Telemanna. Na ten koncert jest bilet z Kartą Seniora za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2637-Collegium_Marianum__Dawno_dawno_temu... (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2637-Collegium_Marianum__Dawno_dawno_temu...)
+
+### Brahms – Muzyka jak zamek z klocków / Brahms – Music Like a Tower of Building Blocks
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-03-14 11:00 (soldout)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: energy
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Daehkwan Kim (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Czy muzykę da się budować jak wieżę z klocków? Brahms pokazuje, że tak: z krótkich melodii i motywów składał wielkie symfonie. Koncert dla dzieci od 5 lat z Orkiestrą Symfoniczną Filharmonii.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2616-Brahms__Muzyka_jak_zamek_z_klockow (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2616-Brahms__Muzyka_jak_zamek_z_klockow)
+
+### Zanim nastanie cisza | Beethoven 200 / Before the Silence | Beethoven 200
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-03-19 19:00 (few, 6 left); 2027-03-20 19:00 (available)
+- Price: 30–90 PLN; ticket types: normal 30–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, relax
+- Duration: 140 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Chór Filharmonii Krakowskiej; Eleonore Cockerham (sopran); Weronika Rabek (mezzosopran); Severin Böhm (tenor); Tomasz Kumięga (bas); Przemysław Neumann (dyrygent)
+- Programme: Ludwig van Beethoven: Chrystus na Górze Oliwnej op. 85; Joseph Haydn: Siedem ostatnich słów Chrystusa na krzyżu Hob. XX/2
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Muzyka wielkopostna o cierpieniu, samotności i poszukiwaniu sensu: jedyne oratorium Beethovena Chrystus na Górze Oliwnej i Siedem ostatnich słów Haydna. Wystąpią Chór Filharmonii Krakowskiej i czworo solistów. W piątek 19 marca przed koncertem bezpłatny wykład Akademii słuchania.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2577-Zanim_nastanie_cisza__Beethoven_200 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2577-Zanim_nastanie_cisza__Beethoven_200)
+
+### Na przekór losowi | Beethoven 200 / In Defiance of Fate | Beethoven 200
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-04-02 19:00 (available)
+- Price: 30–110 PLN; ticket types: normal 30–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults, debut, youth; mood: superhits, energy
+- Duration: 120 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Sitkovetsky Trio; Nestor Bayona (dyrygent)
+- Programme: Ludwig van Beethoven: Uwertura Leonora I op. 138; Ludwig van Beethoven: Koncert potrójny C-dur op. 56; Ludwig van Beethoven: V Symfonia c-moll op. 67
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: V Symfonia c-moll i Koncert potrójny z Sitkovetsky Trio: Beethoven w czasach napoleońskich przemian Europy. Wieczór otworzy Uwertura Leonora I. O 18:00 bezpłatny wykład wprowadzający dla osób z biletem.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2578-Na_przekor_losowi__Beethoven_200 (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2578-Na_przekor_losowi__Beethoven_200)
+
+### Scandinavian Art Ensemble
+
+- Type: Koncert (jazz); hall: Sala symfoniczna
+- Dates: 2027-04-05 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: unusual, relax
+- Performers: Scandinavian Art Ensemble
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Międzynarodowa grupa skrzyknięta jeszcze przez Tomasza Stańkę zagra materiał z płyty The Copenhagen Session. Nagrania z 2016 roku przez lata krążyły w jazzowym środowisku tylko jako pogłoska.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2610-Scandinavian_Art_Ensemble (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2610-Scandinavian_Art_Ensemble)
+
+### Sax and the city
+
+- Type: Koncert kameralny (jazz); hall: Sala kameralna
+- Dates: 2027-04-07 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults, youth, debut; mood: energy, unusual
+- Duration: 65 min
+- Performers: The WHOOP Group
+- Programme: Vittorio Monti: Czardasz (arr. Jakub Muras); Wolfgang Amadeusz Mozart: Uwertura do opery Wesele Figara (arr. Jakub Muras); Antonio Vivaldi: Cztery pory roku (arr. Krzysztof Koszowski – wybór); Edvard Grieg: Utwory liryczne (arr. Krzysztof Koszowski – wybór); Guillermo Lago: Ciudades (wybór); Krzysztof Koszowski: Evolution of Classical Music
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Cztery saksofony zamiast orkiestry: The WHOOP Group gra po swojemu Mozarta, Vivaldiego i Griega, bo w klasyce nie uznaje świętości. Ok. 65 minut bez przerwy.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2596-Sax_and_the_city (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2596-Sax_and_the_city)
+
+### Pamiętnik z podróży / Travel Diary
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-04-09 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: energy, emotional
+- Duration: 110 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Jeremias Fliedl (wiolonczela); Dainius Pavilionis (dyrygent)
+- Programme: Mieczysław Wajnberg: Rapsodia na tematy mołdawskie op. 47 nr 1; Dymitr Szostakowicz: I Koncert wiolonczelowy Es-dur op. 107; Robert Schumann: III Symfonia Es-dur op. 97 Reńska
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Wieczór od klezmerskiego tańca do katedralnego monumentu: Rapsodia na tematy mołdawskie Wajnberga, I Koncert wiolonczelowy Szostakowicza z Jeremiasem Fliedlem i Symfonia Reńska Schumanna. Dyryguje Dainius Pavilionis.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2579-Pamietnik_z_podrozy (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2579-Pamietnik_z_podrozy)
+
+### W poszukiwaniu nadziei / In Search of Hope
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-04-16 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, superhits
+- Duration: 115 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Radek Baborák (waltornia); Przemysław Neumann (dyrygent)
+- Programme: Carl Maria von Weber: Uwertura do opery Wolny strzelec; Reinhold Glière: Koncert na róg i orkiestrę B-dur op. 91; Piotr Czajkowski: V Symfonia e-moll op. 64
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Radek Baborák w latach 2002–2011 był pierwszym waltornistą Berliner Philharmoniker, dziś to jeden z największych mistrzów swojego instrumentu. Zagra Koncert na róg Glière'a, a w drugiej części V Symfonia Czajkowskiego.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2580-W_poszukiwaniu_nadziei (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2580-W_poszukiwaniu_nadziei)
+
+### Wodecki | Zaucha | Herdzin
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2027-04-18 19:00 (available)
+- Price: 80–140 PLN; ticket types: normal 100–140 zł, reduced 80–120 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, energy
+- Performers: Szczecin Philharmonic Big Band; Orkiestra Filharmonii w Szczecinie; Magdalena Wilento (wokal); Michał Grobelny (wokal); Olek Różanek (wokal); Sylwia Grobelna (wokal); Krzysztof Herdzin (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Piosenki Zbigniewa Wodeckiego i Andrzeja Zauchy w aranżacjach Krzysztofa Herdzina, m.in. Rzuć to wszystko, co złe, Zacznij od Bacha i Sobą być. Gra Szczecin Philharmonic Big Band z Orkiestrą Filharmonii i gośćmi.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2602-Wodecki__Zaucha__Herdzin (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2602-Wodecki__Zaucha__Herdzin)
+
+### Możdżer | Malisz
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2027-04-23 19:00 (available)
+- Price: 150–230 PLN; ticket types: normal 170–230 zł, reduced 150–210 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: unusual, emotional
+- Performers: Leszek Możdżer (fortepian); Kacper Malisz (skrzypce)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Leszek Możdżer, pianista, który od lat wymyka się klasyfikacjom, spotyka skrzypka Kacpra Malisza, wychowanego w muzyce tradycyjnej Beskidu Niskiego. Łączy ich improwizacja, a liczy się to, co powstaje podczas samego grania.
+- Why go: Leszek Możdżer, a pianist who has long escaped every label, meets violinist Kacper Malisz, raised on the traditional music of the Low Beskids. Improvisation connects them, and what matters is what happens while they play.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2638-Mozdzer__Malisz_ (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2638-Mozdzer__Malisz_)
+
+### Z Czech do Nowego Świata – muzyka Antonína Dvořáka / From Bohemia to the New World – The Music of Antonín Dvořák
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-04-25 11:00 (soldout)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: energy, superhits
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Karol Szwech (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Podróż z Antonínem Dvořákiem od czeskiej wsi do Nowego Świata. Dzieci nauczą się kilku zwrotów po czesku i zatańczą do tańców słowiańskich. Koncert dla dzieci od 5 lat.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2617-Z_Czech_do_Nowego_Swiata__muzyka_Antonna_Dvoka (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2617-Z_Czech_do_Nowego_Swiata__muzyka_Antonna_Dvoka)
+
+### Siła kontrastów / The Power of Contrasts
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2027-04-28 19:00 (available)
+- Price: 30–50 PLN; ticket types: normal 30–50 zł, reduced 40 zł, disabled 10 zł
+- For: adults; mood: unusual
+- Duration: 60 min
+- Performers: FeelHarmony Quintet; Piotr Wybraniec (klarnet basowy
+(gościnnie))
+- Programme: Emil František Burian: Dechovy kvintet; Vaclav Trojan: Kwintet Es-dur op. 8; Leoš Janáček: Mládí (Młodość) na sekstet dęty
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Trzy czeskie odpowiedzi na pytanie, czym może być nowoczesna muzyka kameralna: Burian, Trojan i Mládí Janáčka. FeelHarmony Quintet z gościnnym udziałem Piotra Wybrańca, godzina bez przerwy. Na ten koncert jest bilet z Kartą Seniora za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2593-Sila_kontrastow (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2593-Sila_kontrastow)
+
+### Antypody (?) / Antipodes (?)
+
+- Type: Wystawa; hall: Galeria Poziom 4
+- Dates: 2027-04-29 19:00 (free)
+- Price: free entry
+- For: adults; mood: unusual
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Wystawa zbiorowa artystek i artystów ze Szczecina i Lublina, przygotowana przez Akademię Sztuki w Szczecinie i UMCS. Wernisaż w Galerii Poziom 4., wstęp wolny.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2649-Antypody_ (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2649-Antypody_)
+
+### Ścieżki Słońca | Paweł Kula / Paths of the Sun | Paweł Kula
+
+- Type: Wystawa; hall: Art.Room
+- Dates: 2027-04-29 19:00 (free)
+- Price: free entry
+- For: adults; mood: unusual, relax
+- Performers: Paweł Kula
+- Accessibility: wheelchair. Galerie (Art.Room i Galeria Poziom 4., 3. i 4. kondygnacja) dostępne windą. Wstęp bezpłatny dla osób z niepełnosprawnościami i dzieci do 10 lat. Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Fotografie Pawła Kuli o doświadczaniu światła, wpatrywaniu się w drogi Słońca i tajemnicy samej fotografii. Wernisaż w Art.Roomie, wstęp wolny.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2651-Sciezki_Slonca__Pawel_Kula (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2651-Sciezki_Slonca__Pawel_Kula)
+
+### Maseli | Orkiestra
+
+- Type: Koncert symfoniczny (jazz); hall: Sala symfoniczna
+- Dates: 2027-04-30 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: energy, unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Bernard Maseli – wibrafon; Henryk Miśkiewicz (saksofon); Paweł Tomaszewski (fortepian); Andrzej Święs (kontrabas); Marcin Jahr (perkusja); Rouhangeze Baichoo (wokal); Marek Moś (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Obchody Międzynarodowego Dnia Jazzu: Bernard Maseli, najbardziej znany polski wibrafonista, Henryk Miśkiewicz i Orkiestra Symfoniczna Filharmonii. W programie premiera kompozycji napisanej na zamówienie Filharmonii.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2581-Maseli__Orkiestra (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2581-Maseli__Orkiestra)
+
+### Wandering Songs | Weronika Grozdew-Kołacińska
+
+- Type: Koncert; hall: Sala kameralna
+- Dates: 2027-05-06 19:00 (available)
+- Price: 60–70 PLN; ticket types: normal 70 zł, reduced 60 zł, disabled 10 zł
+- For: adults; mood: unusual, emotional
+- Performers: Wandering Songs
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Folkowa supergrupa artystów z wielkim dorobkiem, prowadzona przez etnomuzykolożkę i pieśniarkę Weronikę Grozdew-Kołacińską.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2607-Wandering_Songs__Weronika_Grozdew-Kolacinska (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2607-Wandering_Songs__Weronika_Grozdew-Kolacinska)
+
+### Sploty / Interweavings
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-05-07 19:00 (available)
+- Price: 70–110 PLN; ticket types: normal 80–110 zł, reduced 70–100 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, superhits
+- Duration: 115 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Maria Ioudenitch (skrzypce); Róbert Farkas (dyrygent)
+- Programme: Robert Schumann: Uwertura Manfred op. 115; Antonín Dvořák: Koncert skrzypcowy a-moll op. 53; Johannes Brahms: III Symfonia F-dur op. 90
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Romantyzm w pełni: Uwertura Manfred Schumanna, Koncert skrzypcowy Dvořáka i III Symfonia Brahmsa. Solistką jest Maria Ioudenitch, która w 2021 roku wygrała trzy międzynarodowe konkursy, a jej debiutancki album nagrodzono Opus Klassik.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2611-Sploty (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2611-Sploty)
+
+### Melodia nieba / Melody of Heaven
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-05-14 19:00 (available)
+- Price: 50–90 PLN; ticket types: normal 60–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: emotional, superhits
+- Duration: 120 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Joanna Kędzior (sopran); Przemysław Neumann (dyrygent)
+- Programme: Stanisław Moniuszko: Uwertura fantastyczna Bajka; Witold Maliszewski: Królewna Basia na sopran i orkiestrę op. 33; Gustav Mahler: IV Symfonia G-dur
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Usłyszymy IV Symfonię Mahlera w wykonaniu Orkiestry Filharmonii, z sopranem Joanny Kędzior. Wcześniej baśniowa Królewna Basia Maliszewskiego i uwertura Bajka Moniuszki. Dyryguje Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2582-Melodia_nieba (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2582-Melodia_nieba)
+
+### Pomniki Symfoniki | Mahler / Symphonic Monuments | Mahler
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-05-15 19:00 (few, 8 left)
+- Price: 30–80 PLN; ticket types: normal 30–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: debut, adults; mood: emotional, superhits
+- Duration: 90 min
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Przemysław Neumann (dyrygent)
+- Programme: Gustav Mahler: IV Symfonia G-dur
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: IV Symfonia Mahlera i Wiedeń około 1900 roku: najpierw 30-minutowa opowieść dyrygenta o znakach i symbolach utworu, potem całe dzieło, 90 minut bez przerwy. Na ten koncert jest bilet studencki za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2583-Pomniki_Symfoniki__Mahler (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2583-Pomniki_Symfoniki__Mahler)
+
+### Poza szlakiem / Off the beaten track
+
+- Type: Koncert kameralny; hall: Sala kameralna
+- Dates: 2027-05-19 19:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł
+- For: adults; mood: emotional, unusual
+- Duration: 65 min
+- Performers: Alicja Ptasiński (skrzypce); Alicja Poręba (skrzypce); Igor Rudnicki (altówka); Jakub Wyciślik (wiolonczela); Dominik Wizjan (fortepian)
+- Programme: Carl Frühling: Kwintet fortepianowy fis-moll op. 30; Max Bruch: Kwintet fortepianowy g-moll
+- Accessibility: wheelchair. Sala kameralna (1. piętro) dostępna windą, z wyznaczonymi miejscami dla osób na wózkach. Plan tej sali nie jest dostępny online – miejsce dla wózka zarezerwuj przez kasę (+48 91 431 07 20). Wejście z psem przewodnikiem i asystującym.
+- Dlaczego warto: Dwa kwintety fortepianowe: Maxa Brucha i niemal zapomnianego Carla Frühlinga, czyli mniej znana strona romantyzmu. Ok. 65 minut bez przerwy.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2592-Poza_szlakiem (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2592-Poza_szlakiem)
+
+### Poza czasem / Beyond Time
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-05-21 19:00 (available)
+- Price: 30–90 PLN; ticket types: normal 30–90 zł, reduced 50–80 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: unusual, relax
+- Duration: 95 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Olivier Stankiewicz (obój); George Tchitchinadze (dyrygent)
+- Programme: Ottorino Respighi: Trzy chorały Johanna Sebastiana Bacha na orkiestrę; Bohuslav Martinů: Koncert na obój i małą orkiestrę; Max Reger: Wariacje i fuga na temat Mozarta op. 132
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Muzyka o muzyce: Respighi przenosi chorały Bacha na wielką orkiestrę, Reger pisze wariacje na temat Mozarta, a Olivier Stankiewicz gra Koncert obojowy Martinů. Na ten koncert jest bilet z Kartą Seniora za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2584-Poza_czasem (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2584-Poza_czasem)
+
+### Już czas / This is the Moment
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-06-04 19:00 (few, 5 left)
+- Price: 30–80 PLN; ticket types: normal 30–80 zł, reduced 40–70 zł, disabled 10 zł, wheel 10 zł
+- For: adults, youth; mood: unusual
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Koncert dyplomowy studenta dyrygentury Akademii Muzycznej w Poznaniu z Orkiestrą Symfoniczną Filharmonii: pierwszy duży krok zawodowej kariery na oczach publiczności. Na ten koncert jest bilet z Kartą Seniora za 30 zł.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2585-Juz_czas (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2585-Juz_czas)
+
+### Podróż za jeden uśmiech / A Journey for a Smile
+
+- Type: Koncert; hall: Sala symfoniczna
+- Dates: 2027-06-06 19:00 (available)
+- Price: 80–140 PLN; ticket types: normal 100–140 zł, reduced 80–120 zł, disabled 10 zł, wheel 10 zł
+- For: adults, families; mood: superhits, energy
+- Performers: Orkiestra Filharmonii w Szczecinie; Kasia Dereń (wokal); Kamil Bijoś (wokal); Tomasz Szymuś (dyrygent)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Muzyka Jerzego „Dudusia” Matuszkiewicza z kultowych filmów i seriali: Alternatywy 4, Wojna domowa, Janosik czy Nie lubię poniedziałku. Śpiewają Kasia Dereń i Kamil Bijoś, gra Orkiestra Filharmonii.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2603-Podroz_za_jeden_usmiech (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2603-Podroz_za_jeden_usmiech)
+
+### Miłość, łabędź i cukrowa wróżka, czyli muzyka jak ze snu / Love, a Swan, and the Sugar Plum Fairy – Music Like a Dream
+
+- Type: Edukacja; hall: Sala symfoniczna
+- Dates: 2027-06-13 11:00 (available)
+- Price: 40–50 PLN; ticket types: normal 50 zł, reduced 40 zł, disabled 10 zł, wheel 10 zł
+- For: kids, families (age 5+); mood: emotional, superhits
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Maria Migdalska (dyrygent); Paulina Wojdyga (prowadzenie)
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Spotkanie z Piotrem Czajkowskim, twórcą najsłynniejszych baletów w historii: od delikatności łabędzich skrzydeł po dramat złamanego serca. Koncert dla dzieci od 5 lat z Orkiestrą Symfoniczną Filharmonii.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2618-Milosc_labedz_i_cukrowa_wrozka_czyli_muzyka_jak_ze_snu (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2618-Milosc_labedz_i_cukrowa_wrozka_czyli_muzyka_jak_ze_snu)
+
+### Zakończenie 79. sezonu artystycznego / Finale of the 79th Artistic Season
+
+- Type: Koncert symfoniczny; hall: Sala symfoniczna
+- Dates: 2027-06-18 19:00 (available); 2027-06-19 19:00 (available)
+- Price: 80–140 PLN; ticket types: normal 100–140 zł, reduced 80–120 zł, disabled 10 zł, wheel 10 zł
+- For: adults; mood: superhits, emotional
+- Duration: 125 min incl. 30 min interval
+- Performers: Orkiestra Symfoniczna Filharmonii w Szczecinie; Alexander Gavrylyuk (fortepian); Przemysław Neumann (dyrygent)
+- Programme: Sergiej Rachmaninow: III Koncert fortepianowy d-moll op. 30; Alexander Zemlinsky: Poemat symfoniczny Mała syrenka
+- Accessibility: wheelchair, hearing support. Sala symfoniczna: miejsca dla osób na wózkach w rzędach przed sceną i w lożach bocznych, dojazd windą (także z parkingu). 4 miejsca dla wózków (W1–W4) razem z miejscem dla osoby towarzyszącej kupisz online w jednej transakcji. Pętla indukcyjna: według deklaracji dostępności jest zamontowana w budynku, ale bez wskazania sali – potwierdź w kasie. Wejście z psem przewodnikiem i asystującym. Brak audiodeskrypcji i tyflomap.
+- Dlaczego warto: Na zakończenie 79. sezonu III Koncert fortepianowy Rachmaninowa z Alexandrem Gavrylyukiem i poemat symfoniczny Zemlinsky'ego Mała syrenka, dwa monumentalne dzieła związane z morzem. Dyryguje Przemysław Neumann.
+- Why go: To close the 79th season: Rachmaninoff's Piano Concerto No. 3 with Alexander Gavrylyuk and Zemlinsky's tone poem The Little Mermaid, two monumental works linked to the sea. Conductor: Przemysław Neumann.
+- URL: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/pl/wydarzenie/2586-Zakonczenie_79._sezonu_artystycznego (en: https://rostyslavescaperoomsupplier-arch.github.io/filharmonia-szczecin-demo/en/event/2586-Zakonczenie_79._sezonu_artystycznego)
+
+## Visitor FAQ
+
+### Kiedy czynna jest kasa? / When is the box office open?
+
+Kasa Filharmonii jest czynna od wtorku do piątku w godz. 12:00–18:00, w soboty 12:00–16:00 oraz na godzinę przed każdym biletowanym wydarzeniem, którego organizatorem jest Filharmonia. W tej ostatniej godzinie kasa sprzedaje bilety tylko na bieżące wydarzenie. W poniedziałki i niedziele (poza godziną przed wydarzeniem) kasa jest zamknięta.
+
+EN: The box office is open Tuesday to Friday 12:00–18:00, Saturday 12:00–16:00, and for one hour before every ticketed event organised by the Philharmonic. During that last hour it only sells tickets for that event. On Mondays and Sundays (except the hour before an event) it is closed.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak skontaktować się z kasą? / How do I contact the box office?
+
+Telefon do kasy: +48 91 431 07 20, e-mail: kasa@filharmonia.szczecin.pl. Telefon odbierany jest w godzinach pracy kasy (wt–pt 12:00–18:00, sob 12:00–16:00).
+
+EN: Box office phone: +48 91 431 07 20, email: kasa@filharmonia.szczecin.pl. The phone is answered during box office hours (Tue–Fri 12:00–18:00, Sat 12:00–16:00).
+
+Source: https://filharmonia.szczecin.pl/godziny_otwarcia
+
+### Czy jest infolinia? / Is there an information line?
+
+Tak: infolinia +48 539 949 454, czynna od wtorku do czwartku w godz. 10:00–16:00. W piątki i weekendy dzwoń do kasy: +48 91 431 07 20.
+
+EN: Yes: information line +48 539 949 454, Tuesday to Thursday 10:00–16:00 (mainly in Polish). On Fridays and weekends call the box office: +48 91 431 07 20.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Kiedy budynek Filharmonii jest otwarty? / When is the building open?
+
+Budynek jest otwarty od wtorku do niedzieli w godz. 10:00–18:00 oraz na godzinę przed każdym wydarzeniem, z wyjątkiem dni ustawowo wolnych od pracy. W poniedziałki budynek jest zamknięty, chyba że odbywa się wydarzenie.
+
+EN: The building is open Tuesday to Sunday 10:00–18:00 and from one hour before every event, except on public holidays. On Mondays it is closed unless there is an event.
+
+Source: https://filharmonia.szczecin.pl/godziny_otwarcia
+
+### Jak skontaktować się z sekretariatem? / How do I reach the main office?
+
+Sekretariat jest czynny od poniedziałku do piątku w godz. 08:00–16:00, tel. +48 91 430 95 11, e-mail: sekretariat@filharmonia.szczecin.pl. (Angielska i niemiecka wersja strony podają 08:30–16:30 – przyjmujemy godziny z polskiej strony godzin otwarcia.)
+
+EN: The main office is open Monday to Friday 08:00–16:00, phone +48 91 430 95 11, email sekretariat@filharmonia.szczecin.pl. (The English and German pages say 08:30–16:30; we use the hours from the Polish opening-hours page.)
+
+Source: https://filharmonia.szczecin.pl/godziny_otwarcia
+
+### Jaki jest adres Filharmonii? / What is the address?
+
+Filharmonia im. Mieczysława Karłowicza w Szczecinie, ul. Małopolska 48, 70-515 Szczecin. (W danych strukturalnych obecnej strony błędnie widnieje numer 28.)
+
+EN: Mieczysław Karłowicz Philharmonic in Szczecin, ul. Małopolska 48, 70-515 Szczecin, Poland. (The current site's structured data wrongly says number 28.)
+
+Source: https://filharmonia.szczecin.pl/kontakt
+
+### Czy jest parking? / Is there parking?
+
+Tak, dwupoziomowy parking podziemny na 154 miejsca, wjazd od ul. Małopolskiej 48. Na każdej kondygnacji są dwa miejsca dla osób z niepełnosprawnościami. Parking otwierany jest godzinę przed koncertem lub innym wydarzeniem i jest bezpłatny dla gości z biletem. Z parkingu winda prowadzi prosto do holu.
+
+EN: Yes, a two-level underground car park with 154 spaces, entrance from ul. Małopolska 48. Each level has two disabled parking spaces. It opens one hour before a concert or other event and is free for ticket holders. A lift takes you straight up to the main hall.
+
+Source: https://filharmonia.szczecin.pl/zaplanuj_swoja_wizyte
+
+### Jak dojechać komunikacją miejską? / How do I get there by public transport?
+
+Najbliżej jest przystanek tramwajowy Filharmonia (nr 11411 i 11412) – linia 1. Ok. 5 minut pieszo jest węzeł Plac Rodła: tramwaje 1, 2, 3, 5, 10, 11, 12 i autobusy m.in. 59, 68, 74, 86, 101, 107, A, B, C. Odjazdy na żywo pokazuje ZDiTM. Uwaga: tekst na obecnej stronie (tramwaj 4, autobus 70 do przystanku Filharmonia) jest nieaktualny – takich połączeń nie ma w danych ZDiTM.
+
+EN: The nearest stop is Filharmonia (stops 11411 and 11412), served by tram 1. About 5 minutes on foot is the Plac Rodła hub: trams 1, 2, 3, 5, 10, 11, 12 and buses including 59, 68, 74, 86, 101, 107, A, B, C. Live departures come from ZDiTM. Note: the current site's text (tram 4, bus 70 to Filharmonia) is out of date – those lines are not in ZDiTM data.
+
+Source: https://www.zditm.szczecin.pl/api/v2/stops
+
+### Kiedy przyjść na koncert? / When should I arrive?
+
+Najpóźniej 20 minut przed koncertem. Wszystkie przestrzenie (szatnia, kawiarnie, galerie) otwierają się godzinę przed koncertem, a sama sala – 30 minut przed.
+
+EN: At least 20 minutes before the concert. All public areas (cloakroom, cafés, galleries) open one hour before, the hall itself 30 minutes before.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Co jeśli się spóźnię? / What if I'm late?
+
+Po rozpoczęciu koncertu drzwi do sali są zamknięte. Bileterzy wpuszczą Cię w dogodnym momencie – czasem między utworami, a czasem dopiero w przerwie. Regulamin pozwala odmówić wejścia spóźnionym; wejście jest możliwe ewentualnie w przerwie.
+
+EN: Once the concert starts the doors are closed. Ushers will let you in at a suitable moment – sometimes between pieces, sometimes only at the interval. The regulations allow late-comers to be refused; entry may then be possible at the interval.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak się ubrać? / Is there a dress code?
+
+Tak jak lubisz. Jedni przychodzą elegancko, inni prosto z pracy. Ścisły dress code obowiązuje tylko muzyków orkiestry.
+
+EN: Wear whatever you like. Some come dressed up, others straight from work. Only the orchestra has a strict dress code.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Co oznaczają dzwonki? / What do the bells mean?
+
+Jeden dzwonek: 15 minut do koncertu, dwa dzwonki: 10 minut, trzy dzwonki: 5 minut – czas zająć miejsce. Tak samo pod koniec przerwy.
+
+EN: One bell: 15 minutes to go, two bells: 10 minutes, three bells: 5 minutes – time to take your seat. The same applies at the end of the interval.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Gdzie jest szatnia i do kiedy działa? / Where is the cloakroom and when does it close?
+
+Szatnia jest w holu, na wprost wejścia. Otwiera się godzinę przed koncertem lub innym wydarzeniem i zamyka 30 minut po jego zakończeniu – odbierz rzeczy na czas.
+
+EN: The cloakroom is in the main hall, opposite the entrance. It opens one hour before a concert or event and closes 30 minutes after it ends – collect your things in time.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Czy w Filharmonii są kawiarnie? / Are there cafés?
+
+Tak, dwie. Symfonia Cafe w holu: wt–pt 10:00–18:00, sob–niedz 12:00–18:00, w dni koncertowe do ostatniego gościa. Kawiarnia koncertowa na 3. piętrze (przy wejściu na balkon) działa tylko podczas koncertów w sali symfonicznej: od godziny przed koncertem do jego zakończenia. (Inne strony podają, że jest otwarta tylko przy koncertach z przerwą – potwierdź w kasie.)
+
+EN: Yes, two. Symfonia Cafe in the main hall: Tue–Fri 10:00–18:00, Sat–Sun 12:00–18:00, on concert days until the last guest. The concert café on the 3rd floor (by the balcony entrance) is open only for symphonic hall concerts, from one hour before until the end. (Other pages say only for concerts with an interval – please check with the box office.)
+
+Source: https://filharmonia.szczecin.pl/cafeSymfonia
+
+### Czy można wnieść jedzenie lub napoje na salę? / Can I take food or drinks into the hall?
+
+Nie. Prosimy nie wnosić napojów i przekąsek na salę koncertową i oddawać naczynia do kawiarni. Alkohol można spożywać tylko w wyznaczonych miejscach, w budynku obowiązuje zakaz palenia.
+
+EN: No. Please don't take drinks or snacks into the concert hall, and return glasses and cups to the café. Alcohol only in designated areas; smoking is banned throughout the building.
+
+Source: https://filharmonia.szczecin.pl/zaplanuj_swoja_wizyte
+
+### Gdzie znajdę program koncertu? / Where can I find the concert programme?
+
+Do koncertów przygotowywany jest program w PDF: można go pobrać bezpłatnie, skanując kod QR w budynku, albo ze strony wydarzenia dzień przed koncertem. Osoby, które kupiły bilet online, dostają link mailem dzień wcześniej. Obecnie PDF jest opublikowany tylko przy części wydarzeń – w razie braku zapytaj obsługę.
+
+EN: A PDF programme is prepared for concerts: download it for free by scanning a QR code in the building, or from the event page the day before. Online buyers get the link by email the day before. At the moment only some events have the PDF online – if it's missing, ask the staff.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Czy mogę robić zdjęcia i nagrywać? / Can I take photos or record?
+
+Nie. Podczas wydarzeń obowiązuje zakaz rejestrowania (zdjęcia, filmy, nagrania) i używania telefonów – wyłącz je całkowicie. Pamiątkowe selfie w sali zrób po ostatniej nucie.
+
+EN: No. Recording (photos, video, audio) and using phones during events is not allowed – please switch your phone off completely. Take your souvenir selfie after the last note.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak trafić na swoje miejsce? / How do I find my seat?
+
+Sala jest podana na bilecie. Do sali symfonicznej wejścia na parter są na 1. piętrze, a na balkon na 2. i 3. piętrze; każde wejście jest opisane numerami miejsc. Sala kameralna jest na 1. piętrze. W holu nie ma numeracji miejsc. Wszędzie dojedziesz windą przy schodach kręconych.
+
+EN: The hall is printed on your ticket. In the symphonic hall, stalls entrances are on the 1st floor and balcony entrances on the 2nd and 3rd floors, each marked with seat numbers. The chamber hall is on the 1st floor. Seating in the main hall is unnumbered. A lift next to the spiral stairs goes to every level.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Czy koncert ma przerwę i ile trwa? / Is there an interval and how long is it?
+
+Większość koncertów symfonicznych ma przerwę, zwykle 20–30 minut (w sezonie 2026/2027 najczęściej 30 minut); koncerty kameralne i muzyki świata zwykle są bez przerwy. Długość koncertu i przerwy podajemy przy każdym wydarzeniu.
+
+EN: Most symphony concerts have an interval, usually 20–30 minutes (mostly 30 minutes in 2026/2027); chamber and world music concerts usually have none. Duration and interval are shown for each event.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Kiedy są otwarte galerie i ile kosztuje wstęp? / When are the galleries open and how much is entry?
+
+Galeria Poziom 4. i Art.Room są otwarte w soboty i niedziele w godz. 12:00–16:00 (ostatnie wejście 15:30) – konkretne dni sprawdź w kalendarzu. Bilet 10 zł obejmuje obie galerie (kasa, biletomat, online). Wstęp bezpłatny dla dzieci do 10 lat i osób z niepełnosprawnościami. Goście koncertów wchodzą bezpłatnie godzinę przed koncertem, w przerwie i do 30 minut po koncercie (strona Bilety wymienia tylko przerwę i 30 minut po – potwierdź w kasie).
+
+EN: Galeria Poziom 4 and Art.Room are open on Saturdays and Sundays 12:00–16:00 (last entry 15:30) – check the calendar for exact days. A 10 zł ticket covers both galleries (box office, ticket machine, online). Free for children under 10 and disabled visitors. Concert guests get in free from one hour before, during the interval and up to 30 minutes after (the Tickets page only mentions the interval and 30 minutes after – please confirm at the box office).
+
+Source: https://filharmonia.szczecin.pl/wystawy
+
+### Czy można zwiedzać budynek z przewodnikiem? / Are there guided tours of the building?
+
+Tak, w piątki (terminy w kalendarzu): 13:00 po niemiecku, 14:00 po angielsku, 15:00 po polsku. Zwiedzanie trwa ok. 60 minut i obejmuje hol, salę kameralną, symfoniczną i Poziom 4. Bilet: 30 zł normalny, 20 zł ulgowy i grupowy – online, w kasie lub biletomacie. Rezerwacja nie jest potrzebna, tura odbywa się niezależnie od liczby chętnych. Pytania i grupy: zwiedzanie@filharmonia.szczecin.pl. (Starsze strony podają 40 lub 45 minut i cenę 20/10 zł – obowiązują dane z aktualnych wydarzeń.)
+
+EN: Yes, on Fridays (dates in the calendar): 13:00 in German, 14:00 in English, 15:00 in Polish. Tours last about 60 minutes and cover the main hall, the chamber hall, the symphonic hall and Poziom 4. Tickets: 30 zł standard, 20 zł reduced and group – online, at the box office or ticket machine. No booking needed; tours run regardless of numbers. Questions and groups: zwiedzanie@filharmonia.szczecin.pl. (Older pages say 40 or 45 minutes and 20/10 zł – the current event pages apply.)
+
+Source: https://filharmonia.szczecin.pl/wydarzenia/2658-Zwiedzanie_Filharmonii_w_jezyku_polskim
+
+### Czy jest zwiedzanie w polskim języku migowym? / Is there a tour in Polish Sign Language?
+
+Tak: zwiedzanie po polsku z tłumaczem PJM 6 listopada i 4 grudnia 2026 o 15:00. Tłumacz czeka w holu głównym przed 15:00, zapisy nie są potrzebne. (Deklaracja dostępności pisze, że tłumacza PJM brak – dotyczy to stałej obsługi, nie tych tur.)
+
+EN: Yes: a Polish-language tour with a PJM interpreter on 6 November and 4 December 2026 at 15:00. The interpreter waits in the main hall before 15:00; no booking needed. (The accessibility statement says no PJM interpreter is available – that refers to regular service, not these tours.)
+
+Source: https://filharmonia.szczecin.pl/wydarzenia/2661-Zwiedzanie_Filharmonii_w_jezyku_polskim_dostepne_w_PJM
+
+### Komu przysługuje bilet ulgowy? / Who can get a reduced ticket?
+
+Bilet ulgowy przysługuje: dzieciom do 6 lat, uczniom szkół podstawowych i ponadpodstawowych, studentom do 26. roku życia, emerytom, rencistom i osobom 60+, osobom z orzeczoną niepełnosprawnością, posiadaczom medalu Gloria Artis, karty Euro26 i Szczecińskiej Karty Turystycznej. Dokument uprawniający do ulgi pokaż przy wejściu.
+
+EN: Reduced tickets are for: children under 6, primary and secondary school pupils, students up to age 26, pensioners and people over 60, people with a certified disability, holders of the Gloria Artis medal, the Euro26 card and the Szczecin Tourist Card. Show the document at the entrance.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy są bilety grupowe? / Are there group tickets?
+
+Tak, od 15 osób na jedno wydarzenie. Rezerwację grupy zgłoś mailem na kasa@filharmonia.szczecin.pl (termin, liczba osób, imię i nazwisko, telefon, ewentualnie dane do faktury). Rezerwacja jest ważna po potwierdzeniu przez kasę, termin płatności ustala się indywidualnie.
+
+EN: Yes, for 15 or more people at one event. Email kasa@filharmonia.szczecin.pl with the date, group size, your name, phone and invoice details if needed. The booking is confirmed by the box office; the payment deadline is agreed individually.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy jest zniżka ze Szczecińską Kartą Seniora? / Is there a discount with the Szczecin Senior Card?
+
+Tak: jeden bilet za 30 zł (bez względu na miejsce) na wybrane wydarzenia, jeden bilet na kartę. W sezonie 2026/2027 m.in. 25.11.2026, 30.01, 12.02, 12.03, 19.03, 28.04, 21.05 i 4.06.2027. Według strony Bilety i regulaminu (§4) kupisz go w kasie i online; regulamin (§3.9) mówi, że lista wydarzeń jest w kasie – w razie wątpliwości potwierdź w kasie. Kartę pokaż przy wejściu.
+
+EN: Yes: one 30 zł ticket (any seat) for selected events, one ticket per card. In 2026/2027 e.g. 25.11.2026, 30.01, 12.02, 12.03, 19.03, 28.04, 21.05 and 4.06.2027. According to the Tickets page and the regulations (§4) it is sold at the box office and online; §3.9 says the event list is kept at the box office – if in doubt, check there. Show the card at the entrance.
+
+Source: https://filharmonia.szczecin.pl/bilety
+
+### Czy jest bilet studencki? / Is there a student ticket?
+
+Tak: z ważną legitymacją studencką jeden bilet za 30 zł (bez względu na miejsce) na wybrane koncerty, np. 30.10, 31.10 i 6.11.2026, 30.01, 19.02, 26.02, 19.03, 2.04 i 15.05.2027. Kupisz go w kasie i online (potwierdź w kasie, jeśli nie widzisz tej opcji). Legitymację pokaż przy wejściu.
+
+EN: Yes: with a valid student ID, one 30 zł ticket (any seat) for selected concerts, e.g. 30.10, 31.10 and 6.11.2026, 30.01, 19.02, 26.02, 19.03, 2.04 and 15.05.2027. Available at the box office and online (ask the box office if you don't see the option). Show your ID at the entrance.
+
+Source: https://filharmonia.szczecin.pl/bilety
+
+### Jakie bilety przysługują osobom z niepełnosprawnością? / What tickets are there for disabled visitors?
+
+Do 16. roku życia z orzeczeniem: bilet 10 zł + bilet ulgowy dla opiekuna. Od 16 lat, stopień lekki lub umiarkowany: bilet ulgowy dla siebie i opiekuna. Stopień znaczny: bilet 10 zł + bilet ulgowy dla opiekuna. Bilety kupisz w kasie i online; orzeczenie pokaż przy wejściu.
+
+EN: Under 16 with a disability certificate: 10 zł ticket + reduced ticket for a carer. 16+ with a mild or moderate degree: reduced tickets for you and your carer. Significant degree: 10 zł ticket + reduced ticket for a carer. Available at the box office and online; show the certificate at the entrance.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak działa Szczecińska Karta Rodzinna? / How does the Szczecin Family Card work?
+
+Obowiązuje tylko na koncerty rodzinne (Akademia Młodego Melomana, EduWerwa w sali symfonicznej). Cena za jeden bilet zależy od liczby dzieci w rodzinie: 2 dzieci – 25 zł, 3 – 20 zł, 4 – 15 zł, 5 – 10 zł, 6 – 5 zł, 7 i więcej – 3 zł. Bilety kupisz wyłącznie w kasie, po okazaniu wszystkich ważnych kart.
+
+EN: Valid only for family concerts (Young Music Lovers' Academy and EduWerwa in the symphonic hall). The price per ticket depends on the number of children: 2 children – 25 zł, 3 – 20 zł, 4 – 15 zł, 5 – 10 zł, 6 – 5 zł, 7 or more – 3 zł. Only at the box office, on showing all valid cards.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Których biletów nie kupię online? / Which tickets can't I buy online?
+
+Online sprzedawane są wszystkie bilety z wyjątkiem biletów na Szczecińską Kartę Rodzinną i biletów dla uczniów szkół muzycznych (10 zł) – te tylko w kasie. W kasie kupisz też bilet opiekuna na RANIUTTO (bezpośrednio przed warsztatami) i bilety na podstawie zaproszeń.
+
+EN: All tickets are sold online except Szczecin Family Card tickets and music-school pupil tickets (10 zł) – those are box office only. The box office also sells the RANIUTTO caregiver ticket (just before the workshop) and tickets on invitation.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Na które koncerty nie ma zniżek? / Which concerts have no discounts?
+
+Inauguracja i zakończenie sezonu, koncerty prezydenckie, sylwestrowe i noworoczne nie są objęte ulgami dla osób z niepełnosprawnością, Kartą Rodzinną, Kartą Seniora, biletem studenckim, biletem dla uczniów szkół muzycznych ani abonamentem. Zwykły bilet ulgowy regulamin tu nie wyłącza – potwierdź w kasie.
+
+EN: Season opening and closing concerts, the Presidential concerts and the New Year's Eve and New Year concerts are excluded from the disability, Family Card, Senior Card, student, music-school and season-ticket discounts. The regulations don't exclude the standard reduced ticket – please confirm at the box office.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy jest abonament? / Is there a season ticket?
+
+Tak: przy zakupie przez jedną osobę co najmniej 7 biletów normalnych lub ulgowych na różne koncerty – 15% zniżki od każdego biletu. Nie dotyczy koncertów rodzinnych i dat 31.12.2026, 1.01.2027, 8–10.01.2027 i 18–19.06.2027. Regulamin mówi o zakupie w kasie, ale abonament jest też w sklepie online.
+
+EN: Yes: buy at least 7 standard or reduced tickets for different concerts as one person and get 15% off each ticket. Not valid for family concerts or on 31.12.2026, 1.01.2027, 8–10.01.2027 and 18–19.06.2027. The regulations mention the box office, but it is also sold in the online shop.
+
+Source: https://filharmonia.szczecin.pl/bilety
+
+### Co jeśli koncert jest wyprzedany? / What if a concert is sold out?
+
+Na wybrane wydarzenia kasa sprzedaje wejściówki stojące na godzinę przed rozpoczęciem, gdy zabraknie miejsc siedzących. Cena wejściówki = najtańszy bilet na dane wydarzenie. Nie na każde wydarzenie są możliwe – zapytaj w kasie.
+
+EN: For selected events the box office sells standing passes one hour before the start once all seats are gone. The price equals the cheapest ticket for that event. Not possible for every event – ask the box office.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy mogę zwrócić lub wymienić bilet? / Can I return or exchange a ticket?
+
+Filharmonia nie wymienia biletów. Zwrot jest możliwy tylko przy odwołaniu wydarzenia – w kasie, z paragonem lub fakturą. Bilety kupione online nie podlegają zwrotowi poza odwołaniem wydarzenia; pieniądze wracają na konto lub kartę, z której płaciłeś. Reklamacje rozpatrywane są do 14 dni roboczych.
+
+EN: Tickets cannot be exchanged. Refunds are only given if the event is cancelled – at the box office, with the receipt or invoice. Online tickets are non-refundable except for cancellation; money goes back to the account or card you paid with. Complaints are handled within 14 working days.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy mogę zarezerwować bilet? / Can I reserve a ticket?
+
+Tak: osobiście w kasie, mailem (kasa@filharmonia.szczecin.pl) lub telefonicznie (+48 91 431 07 20). Rezerwację trzeba wykupić w ciągu 7 dni. Na 2 dni przed wydarzeniem wszystkie rezerwacje są anulowane.
+
+EN: Yes: in person at the box office, by email (kasa@filharmonia.szczecin.pl) or by phone (+48 91 431 07 20). Reserved tickets must be paid within 7 days. All reservations are cancelled 2 days before the event.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak zapłacę i jak dostanę bilet? / How do I pay and get my ticket?
+
+Online płacisz przez Przelewy24, a bilet PDF przychodzi na e-mail – pokaż go na telefonie lub wydrukuj; kod działa przy pierwszym skanowaniu. W kasie: gotówka, karta lub BLIK; w biletomacie tylko karta. Fakturę online można zamówić przy zakupie, w kasie zgłoś to przed zakupem.
+
+EN: Online you pay via Przelewy24 and get a PDF ticket by email – show it on your phone or print it; the code works on first scan only. At the box office: cash, card or BLIK; at the ticket machine card only. You can request an invoice when buying online; at the box office ask before paying.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Jak zarezerwować koncert dla szkoły lub przedszkola? / How do schools and kindergartens book?
+
+Wszystkie bilety na wydarzenia edukacyjne dla grup rezerwuje się wyłącznie przez formularz zgłoszeniowy (link przy wydarzeniu). Na wydarzenia październik 2026 – styczeń 2027 formularz działa od 1 września 2026, na luty – czerwiec 2027 od 1 grudnia 2026. Cena koncertu szkolnego: 30 zł, opiekun 1 zł.
+
+EN: All tickets for group education events are booked only via the application form (linked at each event). For October 2026 – January 2027 the form is open from 1 September 2026, for February – June 2027 from 1 December 2026. School concert price: 30 zł, accompanying teacher 1 zł.
+
+Source: https://filharmonia.szczecin.pl/bilety
+
+### Jak kupić bilet na RANIUTTO dla dziecka i opiekuna? / How do I buy RANIUTTO tickets for my child and myself?
+
+Online i w kasie sprzedawane są tylko bilety dla dzieci (45 zł). Opiekun dokupuje swój bilet w kasie Filharmonii bezpośrednio przed warsztatami. Sprzedaż na każdy miesiąc rusza o 12:00 w dniu podanym przy terminie (np. grudzień od 3 listopada 2026). W sobotę i niedzielę odbywają się te same tematycznie warsztaty, grupy wiekowe: 9:00 (1–2 lata), 10:30 (3–4 lata), 12:00 (5–6 lat).
+
+EN: Only children's tickets (45 zł) are sold online and at the box office. The caregiver buys their own ticket at the box office just before the workshop. Sales for each month open at 12:00 on the date shown for that session (e.g. December from 3 November 2026). Saturday and Sunday workshops have the same theme; age groups: 9:00 (1–2 years), 10:30 (3–4), 12:00 (5–6).
+
+Source: https://filharmonia.szczecin.pl/wydarzenia/2619-RANIUTTO
+
+### Od jakiego wieku dziecko może przyjść na koncert? / From what age can children attend?
+
+Dla dzieci są osobne wydarzenia z podanym wiekiem: RANIUTTO od 1. roku życia, koncerty rodzinne Akademii Młodego Melomana i EduWerwy z sugerowanym wiekiem 5+. Dla koncertów wieczornych Filharmonia nie podaje minimalnego wieku – zapytaj w kasie. Dzieci do 6 lat mają bilet ulgowy; informacji o przewijaku i miejscu na wózek dziecięcy na stronie nie ma – zapytaj w kasie.
+
+EN: There are dedicated events with stated ages: RANIUTTO from age 1, family concerts of the Young Music Lovers' Academy and EduWerwa with a suggested age of 5+. No minimum age is published for evening concerts – ask the box office. Children under 6 get a reduced ticket; the site gives no information on baby-changing facilities or pram parking – ask the box office.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy kupię online miejsce dla osoby na wózku? / Can I buy a wheelchair space online?
+
+Tak. W sali symfonicznej są 4 miejsca dla osób na wózkach (oznaczone na planie sali), bilet 10 zł. Obok od razu wybierzesz miejsce dla osoby towarzyszącej i kupisz oba bilety w jednej transakcji. (Część stron Filharmonii nadal prosi o wcześniejszy telefon do kasy – nie jest to wymagane, ale kasa pomoże dobrać miejsce: +48 91 431 07 20.) W sali kameralnej miejsca dla wózków rezerwuje kasa.
+
+EN: Yes. The symphonic hall has 4 wheelchair spaces (marked on the seat plan), ticket 10 zł. You can pick the companion seat next to it and buy both in one transaction. (Some Philharmonic pages still ask you to call first – not required, but the box office will gladly help: +48 91 431 07 20.) In the chamber hall wheelchair spaces are booked via the box office.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/dostepnosc.html
+
+### Czy mogę liczyć na pomoc asystenta? / Can I get assistance during my visit?
+
+Tak. Personel jest przeszkolony w obsłudze osób z niepełnosprawnościami. Zgłoś potrzeby przy zakupie albo przed przyjazdem w kasie (+48 91 431 07 20, kasa@filharmonia.szczecin.pl), a Filharmonia zapewni opiekę asystenta podczas koncertu. Deklaracja dostępności podaje dla tego numeru godziny 08:00–16:00, ale kasa odbiera w swoich godzinach (wt–pt 12–18, sob 12–16) – dzwoń wtedy.
+
+EN: Yes. Staff are trained to assist disabled visitors. Tell the box office about your needs when buying or before you come (+48 91 431 07 20, kasa@filharmonia.szczecin.pl) and an assistant will be provided during the concert. The accessibility statement lists 08:00–16:00 for this number, but the box office answers during its own hours (Tue–Fri 12–18, Sat 12–16) – call then.
+
+Source: https://filharmonia.szczecin.pl/zaplanuj_swoja_wizyte
+
+### Czy budynek jest dostępny bez schodów? / Is the building step-free?
+
+Tak. Główne wejście od ul. Małopolskiej 48 jest na poziomie chodnika, bez barier. Hol, kasa, szatnia i kawiarnia są na parterze. Windy (z Braille'em i komunikatami głosowymi) jeżdżą na wszystkie piętra, do obu sal, galerii i na parking. Stopnie schodów nie mają kontrastowych pasów, a szklane przegrody przy wejściu nie są oznaczone.
+
+EN: Yes. The main entrance on ul. Małopolska 48 is level with the pavement. The main hall, box office, cloakroom and café are on the ground floor. Lifts (with Braille and voice announcements) serve every floor, both halls, the galleries and the car park. Stair edges have no contrast strips and the glass panels at the entrance are not marked.
+
+Source: https://filharmonia.szczecin.pl/deklaracja_dostepnosci
+
+### Czy jest pętla indukcyjna? / Is there an induction loop?
+
+Według deklaracji dostępności w budynku zamontowana jest pętla indukcyjna, ale nie podano, w której sali ani strefie działa. Przed wizytą potwierdź w kasie (+48 91 431 07 20), czy obejmuje Twoje miejsce.
+
+EN: According to the accessibility statement an induction loop is installed in the building, but it does not say in which hall or area. Please check with the box office (+48 91 431 07 20) whether it covers your seat.
+
+Source: https://filharmonia.szczecin.pl/deklaracja_dostepnosci
+
+### Czy mogę przyjść z psem przewodnikiem? / Can I bring a guide dog?
+
+Tak, do budynku i wszystkich pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma tyflomap, tabliczek brajlowskich przy pomieszczeniach ani dźwiękowej nawigacji; windy mają Braille'a i komunikaty głosowe.
+
+EN: Yes, assistance and guide dogs are welcome in the building and all rooms. There are no tactile maps, Braille room signs or audio navigation; the lifts have Braille and voice announcements.
+
+Source: https://filharmonia.szczecin.pl/deklaracja_dostepnosci
+
+### Gdzie są toalety dla osób z niepełnosprawnościami? / Where are the accessible toilets?
+
+Na parterze i na pierwszym piętrze. (Strona Zaplanuj wizytę wspomina o jednej toalecie – przyjmujemy dokładniejszą informację z deklaracji dostępności.)
+
+EN: On the ground floor and the first floor. (The Plan your visit page mentions one toilet – we use the more detailed accessibility statement.)
+
+Source: https://filharmonia.szczecin.pl/deklaracja_dostepnosci
+
+### Kto odpowiada za dostępność? / Who is the accessibility contact?
+
+Koordynatorka dostępności: Aleksandra Bednarska, a.bednarska@filharmonia.szczecin.pl. Problemy z dostępnością cyfrową strony zgłaszaj Patrycji Proczak: p.proczak@filharmonia.szczecin.pl, +48 91 431 07 25. Pomoc w dniu wydarzenia: kasa, +48 91 431 07 20.
+
+EN: Accessibility coordinator: Aleksandra Bednarska, a.bednarska@filharmonia.szczecin.pl. Report website accessibility problems to Patrycja Proczak: p.proczak@filharmonia.szczecin.pl, +48 91 431 07 25. Help on the day: box office, +48 91 431 07 20.
+
+Source: https://filharmonia.szczecin.pl/deklaracja_dostepnosci
+
+### Ile miejsc ma sala symfoniczna? / How many seats does the symphonic hall have?
+
+953 miejsca siedzące; na planie sali w sklepie są dodatkowo 4 miejsca dla osób na wózkach (razem 957). Strona Wynajem podaje 829 miejsc przy koncertach – zależy to od ustawienia sceny.
+
+EN: 953 seats; the shop's seat plan also has 4 wheelchair spaces (957 in total). The rental page says 829 for concerts – it depends on the stage set-up.
+
+Source: https://filharmonia.szczecin.pl/budynek
+
+### Czy po koncercie mogę zostać w Filharmonii? / Can I stay after the concert?
+
+Tak. Kawiarnia w holu jest otwarta do ostatniego gościa. Galerie i kawiarnia koncertowa zamykają się 30 minut po koncercie, szatnia też – odbierz płaszcz na czas.
+
+EN: Yes. The café in the main hall stays open until the last guest. The galleries and the concert café close 30 minutes after the concert, and so does the cloakroom – collect your coat in time.
+
+Source: https://filharmonia.szczecin.pl/przewodnik_dla_nowych_sluchaczy
+
+### Kto sprzedaje bilety na koncerty zewnętrzne? / Who sells tickets for external concerts?
+
+Koncerty organizatorów zewnętrznych (oznaczone jako wydarzenie zewnętrzne) mają własne zasady sprzedaży – bilety i informacje są u organizatora. Filharmonia nie odpowiada za te wydarzenia, nawet jeśli bilety sprzedaje jej kasa.
+
+EN: Concerts by external organisers (marked as external events) have their own sales rules – tickets and information come from the organiser. The Philharmonic is not responsible for these events, even if its box office sells the tickets.
+
+Source: https://bilety.filharmonia.szczecin.pl/index/regulamin-sprzedazy.html
+
+### Czy przed koncertem jest wprowadzenie do muzyki? / Is there a pre-concert talk?
+
+Przed wybranymi koncertami symfonicznymi o 18:00 w sali kameralnej odbywa się Akademia słuchania – ok. 30-minutowy wykład dr. Jakuba Stefka (po polsku). Wstęp wolny z biletem na koncert tego wieczoru. W cyklu Pomniki symfoniki wykład dyrygenta jest częścią koncertu.
+
+EN: Before selected symphony concerts the Listening Academy takes place at 18:00 in the chamber hall – a talk of about 30 minutes by Dr Jakub Stefek (in Polish). Free with a ticket for that evening's concert. In the Monuments of the Symphony series the conductor's talk is part of the concert.
+
+Source: https://filharmonia.szczecin.pl/wydarzenia/2639-Akademia_sluchania__Przewodnik_po_koncertach
+
+### Kontakt dla mediów? / Press contact?
+
+Rzeczniczka prasowa: Katarzyna Plater-Zyberk, +48 537 999 308, rzecznik@filharmonia.szczecin.pl.
+
+EN: Press officer: Katarzyna Plater-Zyberk, +48 537 999 308, rzecznik@filharmonia.szczecin.pl.
+
+Source: https://filharmonia.szczecin.pl/kontakt

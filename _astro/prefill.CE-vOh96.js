@@ -1,0 +1,1 @@
+function e(e,t){return`${e}?${new URLSearchParams({zapis:`rodzina`,wydarzenie:t.event,dla:t.who.join(`,`)}).toString()}#rezerwacja`}function t(e){let t=new URLSearchParams(e);return t.get(`zapis`)===`rodzina`?{event:t.get(`wydarzenie`)??``,who:(t.get(`dla`)??``).split(`,`).map(e=>e.trim()).filter(Boolean).slice(0,10)}:null}export{t as n,e as t};
